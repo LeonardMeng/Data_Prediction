@@ -1,0 +1,521 @@
+{
+  "arch": "x86_64",
+  "build": "py36h452e1ab_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libgpuarray 0.7.6",
+    "mako",
+    "numpy >=1.11.3,<2.0a0",
+    "python >=3.6,<3.7.0a0",
+    "six",
+    "vc 14.*"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\pygpu-0.7.6-py36h452e1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/requires.txt",
+    "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/pygpu/__init__.py",
+    "Lib/site-packages/pygpu/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/pygpu/__pycache__/_array.cpython-36.pyc",
+    "Lib/site-packages/pygpu/__pycache__/_version.cpython-36.pyc",
+    "Lib/site-packages/pygpu/__pycache__/basic.cpython-36.pyc",
+    "Lib/site-packages/pygpu/__pycache__/dtypes.cpython-36.pyc",
+    "Lib/site-packages/pygpu/__pycache__/elemwise.cpython-36.pyc",
+    "Lib/site-packages/pygpu/__pycache__/operations.cpython-36.pyc",
+    "Lib/site-packages/pygpu/__pycache__/reduction.cpython-36.pyc",
+    "Lib/site-packages/pygpu/__pycache__/tools.cpython-36.pyc",
+    "Lib/site-packages/pygpu/_array.py",
+    "Lib/site-packages/pygpu/_elemwise.c",
+    "Lib/site-packages/pygpu/_elemwise.cp36-win_amd64.pyd",
+    "Lib/site-packages/pygpu/_version.py",
+    "Lib/site-packages/pygpu/basic.py",
+    "Lib/site-packages/pygpu/blas.c",
+    "Lib/site-packages/pygpu/blas.cp36-win_amd64.pyd",
+    "Lib/site-packages/pygpu/blas_api.h",
+    "Lib/site-packages/pygpu/collectives.c",
+    "Lib/site-packages/pygpu/collectives.cp36-win_amd64.pyd",
+    "Lib/site-packages/pygpu/collectives.h",
+    "Lib/site-packages/pygpu/collectives_api.h",
+    "Lib/site-packages/pygpu/dtypes.py",
+    "Lib/site-packages/pygpu/elemwise.py",
+    "Lib/site-packages/pygpu/gpuarray.c",
+    "Lib/site-packages/pygpu/gpuarray.cp36-win_amd64.pyd",
+    "Lib/site-packages/pygpu/gpuarray.h",
+    "Lib/site-packages/pygpu/gpuarray_api.h",
+    "Lib/site-packages/pygpu/numpy_compat.h",
+    "Lib/site-packages/pygpu/operations.py",
+    "Lib/site-packages/pygpu/reduction.py",
+    "Lib/site-packages/pygpu/tests/__init__.py",
+    "Lib/site-packages/pygpu/tests/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/main.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/support.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/test_basic.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/test_blas.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/test_collectives.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/test_elemwise.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/test_gpu_ndarray.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/test_operations.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/test_reduction.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/__pycache__/test_tools.cpython-36.pyc",
+    "Lib/site-packages/pygpu/tests/main.py",
+    "Lib/site-packages/pygpu/tests/support.py",
+    "Lib/site-packages/pygpu/tests/test_basic.py",
+    "Lib/site-packages/pygpu/tests/test_blas.py",
+    "Lib/site-packages/pygpu/tests/test_collectives.py",
+    "Lib/site-packages/pygpu/tests/test_elemwise.py",
+    "Lib/site-packages/pygpu/tests/test_gpu_ndarray.py",
+    "Lib/site-packages/pygpu/tests/test_operations.py",
+    "Lib/site-packages/pygpu/tests/test_reduction.py",
+    "Lib/site-packages/pygpu/tests/test_tools.py",
+    "Lib/site-packages/pygpu/tools.py"
+  ],
+  "fn": "pygpu-0.7.6-py36h452e1ab_0.tar.bz2",
+  "license": "ISC",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\pygpu-0.7.6-py36h452e1ab_0",
+    "type": 1
+  },
+  "md5": "faf78546cc0c616194f4c9baa88ef393",
+  "name": "pygpu",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\pygpu-0.7.6-py36h452e1ab_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "ee356cff94a8c12a4591f955b824ce92f799224080df0e4b0f4b2ebc50e73bc8",
+        "sha256_in_prefix": "ee356cff94a8c12a4591f955b824ce92f799224080df0e4b0f4b2ebc50e73bc8",
+        "size_in_bytes": 236
+      },
+      {
+        "_path": "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "d712438e9fe0aafb68fc219769dde7751e64efcd77a3e42c56056c50d9f83e02",
+        "sha256_in_prefix": "d712438e9fe0aafb68fc219769dde7751e64efcd77a3e42c56056c50d9f83e02",
+        "size_in_bytes": 720
+      },
+      {
+        "_path": "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "da8988310e31b245ecc85c10137aa93c0fd533451d54508fb6f340f250968c9e",
+        "sha256_in_prefix": "da8988310e31b245ecc85c10137aa93c0fd533451d54508fb6f340f250968c9e",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "Lib/site-packages/pygpu-0.7.6-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "97745d62b6abca893208680fb96f08436a3c851804521fb83f8eb64740bf5087",
+        "sha256_in_prefix": "97745d62b6abca893208680fb96f08436a3c851804521fb83f8eb64740bf5087",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ce597f7489cd8c1ddb1670cde09c4b0f76b931ea9613d9dfcdaece60e06e96e0",
+        "sha256_in_prefix": "ce597f7489cd8c1ddb1670cde09c4b0f76b931ea9613d9dfcdaece60e06e96e0",
+        "size_in_bytes": 792
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "200efba7a4555fce99b24f9c25aa32daa50bcd9c10134fc144de2316058496f9",
+        "sha256_in_prefix": "200efba7a4555fce99b24f9c25aa32daa50bcd9c10134fc144de2316058496f9",
+        "size_in_bytes": 1205
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/_array.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "beaf4baf9525ee01506156140be66c7b2725fbef13fff98b75b921b86c92cd39",
+        "sha256_in_prefix": "beaf4baf9525ee01506156140be66c7b2725fbef13fff98b75b921b86c92cd39",
+        "size_in_bytes": 9515
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/_version.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "866a0c74ee3470384b0e23669e72551c964d244bf69a6796176e3288a39815d2",
+        "sha256_in_prefix": "866a0c74ee3470384b0e23669e72551c964d244bf69a6796176e3288a39815d2",
+        "size_in_bytes": 438
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/basic.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ae33e421c5954296783d4706d43059db1385f98a6bc316074095824e3744ff4",
+        "sha256_in_prefix": "3ae33e421c5954296783d4706d43059db1385f98a6bc316074095824e3744ff4",
+        "size_in_bytes": 1985
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/dtypes.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "df0dffec5291c870eb3ca2fb06c7c1157a7140ff1fc6e8978a35ce989f60a665",
+        "sha256_in_prefix": "df0dffec5291c870eb3ca2fb06c7c1157a7140ff1fc6e8978a35ce989f60a665",
+        "size_in_bytes": 5510
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/elemwise.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "882222f9f6c33568cc8e620ab42e90e704bf9683bf82401c7680919ef6bbfdc4",
+        "sha256_in_prefix": "882222f9f6c33568cc8e620ab42e90e704bf9683bf82401c7680919ef6bbfdc4",
+        "size_in_bytes": 2852
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/operations.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "989864f3a4fb0954abae13ad7c0fd37e072423ad86bb0969525bfc30be5bc2bc",
+        "sha256_in_prefix": "989864f3a4fb0954abae13ad7c0fd37e072423ad86bb0969525bfc30be5bc2bc",
+        "size_in_bytes": 4321
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/reduction.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "44f826e01f16e90c27ccbb9d98316b5fe8c84590ac5580d829941d694309fb07",
+        "sha256_in_prefix": "44f826e01f16e90c27ccbb9d98316b5fe8c84590ac5580d829941d694309fb07",
+        "size_in_bytes": 8740
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/__pycache__/tools.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e30df8e6ce20de856fa7c548f79cad274e458332df8eed0ee5a18887cbf1d0f7",
+        "sha256_in_prefix": "e30df8e6ce20de856fa7c548f79cad274e458332df8eed0ee5a18887cbf1d0f7",
+        "size_in_bytes": 6401
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/_array.py",
+        "path_type": "hardlink",
+        "sha256": "b82fd454a721ba6c9c97279e7f04848d3ce0bbdeded6cc95075151cac35dc478",
+        "sha256_in_prefix": "b82fd454a721ba6c9c97279e7f04848d3ce0bbdeded6cc95075151cac35dc478",
+        "size_in_bytes": 10320
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/_elemwise.c",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\\\ci\\\\pygpu_1526496312224\\\\_h_env",
+        "sha256": "8b5957070e07ba66bd926ced7940dcdb60d99e6b79b8ac48ea566af9b290a5a1",
+        "sha256_in_prefix": "faa26374807138443dc60f0ffd3d74f04f4c6bdfb66962e527ad6164a31d4b34",
+        "size_in_bytes": 501398
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/_elemwise.cp36-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "02fbe520c71ab058807371d5cf940baf627b6fdddb39d1dc21b0e949ef9c585e",
+        "sha256_in_prefix": "02fbe520c71ab058807371d5cf940baf627b6fdddb39d1dc21b0e949ef9c585e",
+        "size_in_bytes": 60928
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/_version.py",
+        "path_type": "hardlink",
+        "sha256": "fd511036954d5e31f9844ef16ccc5a06047da89cd881f4acbac1309af0d89828",
+        "sha256_in_prefix": "fd511036954d5e31f9844ef16ccc5a06047da89cd881f4acbac1309af0d89828",
+        "size_in_bytes": 518
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/basic.py",
+        "path_type": "hardlink",
+        "sha256": "1643aae380a27d36fd73b975977e65afba2d6dc2f86b4a41ea53e37e718ec6b7",
+        "sha256_in_prefix": "1643aae380a27d36fd73b975977e65afba2d6dc2f86b4a41ea53e37e718ec6b7",
+        "size_in_bytes": 1912
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/blas.c",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\\\ci\\\\pygpu_1526496312224\\\\_h_env",
+        "sha256": "ce7b303fa9dd60fae57fbe120f9a1baf827d78a9a17db2e4415de181952cc1d0",
+        "sha256_in_prefix": "0e4b816bd7ee34e77b0aa69b4913bf1f57de54d598dc6dad92b5295f29414fd4",
+        "size_in_bytes": 407945
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/blas.cp36-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "4f6c0969aa3499d3ade872e07486ce0e979b30357605ca3a6b947a01558adc78",
+        "sha256_in_prefix": "4f6c0969aa3499d3ade872e07486ce0e979b30357605ca3a6b947a01558adc78",
+        "size_in_bytes": 61952
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/blas_api.h",
+        "path_type": "hardlink",
+        "sha256": "94a4bd6bff40ca8ad4a8d99e0d04d5becc39a634d8dc0198bc777b9a6db9c2b3",
+        "sha256_in_prefix": "94a4bd6bff40ca8ad4a8d99e0d04d5becc39a634d8dc0198bc777b9a6db9c2b3",
+        "size_in_bytes": 5101
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/collectives.c",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\\\ci\\\\pygpu_1526496312224\\\\_h_env",
+        "sha256": "299966fe3356784c93d62a8f3f140d4586c38245ea89d0967f3bc1782eb7fc64",
+        "sha256_in_prefix": "1b91348306e22cb5e7b47af664e989812f19599a45f7398ebea6e359fc0e17d2",
+        "size_in_bytes": 1142382
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/collectives.cp36-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "b1d9af026909191b47272e411029fa9dd6fd1576f6bd6c5c2d0bfd632642abd6",
+        "sha256_in_prefix": "b1d9af026909191b47272e411029fa9dd6fd1576f6bd6c5c2d0bfd632642abd6",
+        "size_in_bytes": 180224
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/collectives.h",
+        "path_type": "hardlink",
+        "sha256": "4b34ad9fd6b8fc19e746ae4d5a8d13eaab9111849ece1ef68d968989c0ccdedb",
+        "sha256_in_prefix": "4b34ad9fd6b8fc19e746ae4d5a8d13eaab9111849ece1ef68d968989c0ccdedb",
+        "size_in_bytes": 1490
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/collectives_api.h",
+        "path_type": "hardlink",
+        "sha256": "b6152ecc38f52fde680b8e273543527bbefc9f48290c73ecfb979ede438374c6",
+        "sha256_in_prefix": "b6152ecc38f52fde680b8e273543527bbefc9f48290c73ecfb979ede438374c6",
+        "size_in_bytes": 7273
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/dtypes.py",
+        "path_type": "hardlink",
+        "sha256": "116a9baced8da08763d3de75e37453fe27c96e656fa0b6421f79a2d8caab8a36",
+        "sha256_in_prefix": "116a9baced8da08763d3de75e37453fe27c96e656fa0b6421f79a2d8caab8a36",
+        "size_in_bytes": 5921
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/elemwise.py",
+        "path_type": "hardlink",
+        "sha256": "baaf8d1bca582dffc7e865ab6695d3bd20fea855a48e058478d81a34a12bb9da",
+        "sha256_in_prefix": "baaf8d1bca582dffc7e865ab6695d3bd20fea855a48e058478d81a34a12bb9da",
+        "size_in_bytes": 3200
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/gpuarray.c",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:\\\\ci\\\\pygpu_1526496312224\\\\_h_env",
+        "sha256": "cf05b846d5c6b6266ce4245c29b0601a4eb34d4e0298fd7fd48dee742986eeaf",
+        "sha256_in_prefix": "f929be1125dd66a59a5de85c1f46eeccee1e1a81e886b6d6f56ffe1b6c2da016",
+        "size_in_bytes": 1813461
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/gpuarray.cp36-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "40a2cea32433442962fd306b43df987878973863ae355b968713983fa662876a",
+        "sha256_in_prefix": "40a2cea32433442962fd306b43df987878973863ae355b968713983fa662876a",
+        "size_in_bytes": 311296
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/gpuarray.h",
+        "path_type": "hardlink",
+        "sha256": "749be6593517b0cc42114efbe7d195443cc33175f3b9d77ec095b125d4bcfc8e",
+        "sha256_in_prefix": "749be6593517b0cc42114efbe7d195443cc33175f3b9d77ec095b125d4bcfc8e",
+        "size_in_bytes": 2119
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/gpuarray_api.h",
+        "path_type": "hardlink",
+        "sha256": "28af5e0a3ef95f6c2299aa6d473a7aba29176ed96ce3f1d54c19ae03815908bf",
+        "sha256_in_prefix": "28af5e0a3ef95f6c2299aa6d473a7aba29176ed96ce3f1d54c19ae03815908bf",
+        "size_in_bytes": 13112
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/numpy_compat.h",
+        "path_type": "hardlink",
+        "sha256": "30a87fa134538b0c52b9a26f0c53bd408a1c2515aa5093edd8d56b769c64a47e",
+        "sha256_in_prefix": "30a87fa134538b0c52b9a26f0c53bd408a1c2515aa5093edd8d56b769c64a47e",
+        "size_in_bytes": 808
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/operations.py",
+        "path_type": "hardlink",
+        "sha256": "7ed6cf8607a06b9c39b5ff504d5e80551b4aa689c8aab547ba44491a2e6e6f5e",
+        "sha256_in_prefix": "7ed6cf8607a06b9c39b5ff504d5e80551b4aa689c8aab547ba44491a2e6e6f5e",
+        "size_in_bytes": 4070
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/reduction.py",
+        "path_type": "hardlink",
+        "sha256": "def27ac68699ef700d8dc8ee0afd43d7ff97ef4f5f767bfca93ab91ab8b8b8ef",
+        "sha256_in_prefix": "def27ac68699ef700d8dc8ee0afd43d7ff97ef4f5f767bfca93ab91ab8b8b8ef",
+        "size_in_bytes": 10284
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "9162ba98e56a2839c4ff348e1c59a0272c6da2ef50490fec6a51df53a6b7deb8",
+        "sha256_in_prefix": "9162ba98e56a2839c4ff348e1c59a0272c6da2ef50490fec6a51df53a6b7deb8",
+        "size_in_bytes": 124
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/main.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4785480b86d4d9ade8ad8f6bb371597d739386daa8fe0e1cb52a0e5a23beebae",
+        "sha256_in_prefix": "4785480b86d4d9ade8ad8f6bb371597d739386daa8fe0e1cb52a0e5a23beebae",
+        "size_in_bytes": 3997
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/support.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "189a300ab2d4d89b074a9989227ad7a217eb1c78d97f11a162d1ba14c81c6a01",
+        "sha256_in_prefix": "189a300ab2d4d89b074a9989227ad7a217eb1c78d97f11a162d1ba14c81c6a01",
+        "size_in_bytes": 4323
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/test_basic.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "a0bdd83d37dd266470ed909d0e190c414d61f9d435e102f78695fbb3c383209f",
+        "sha256_in_prefix": "a0bdd83d37dd266470ed909d0e190c414d61f9d435e102f78695fbb3c383209f",
+        "size_in_bytes": 3111
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/test_blas.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4ee1bce334e33ccbb896db811e8ecbd2cc94d4721cbbae4a1b3acd277e6bff46",
+        "sha256_in_prefix": "4ee1bce334e33ccbb896db811e8ecbd2cc94d4721cbbae4a1b3acd277e6bff46",
+        "size_in_bytes": 6440
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/test_collectives.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5e913f9e8444bc17720783f52bd6ec2ffc96f607cc8f5c1b9195c86a51f5010a",
+        "sha256_in_prefix": "5e913f9e8444bc17720783f52bd6ec2ffc96f607cc8f5c1b9195c86a51f5010a",
+        "size_in_bytes": 9269
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/test_elemwise.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "bac2d2257d49c73bc1d273560904998b12f165cb8dbf3db1a5cbf5fe2f160500",
+        "sha256_in_prefix": "bac2d2257d49c73bc1d273560904998b12f165cb8dbf3db1a5cbf5fe2f160500",
+        "size_in_bytes": 9624
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/test_gpu_ndarray.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "64667a0e4452f48066d0e4b9ea01a229d096468c67b09565b73dbb8c9997f405",
+        "sha256_in_prefix": "64667a0e4452f48066d0e4b9ea01a229d096468c67b09565b73dbb8c9997f405",
+        "size_in_bytes": 26472
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/test_operations.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "b10a2444970faa8dcc0e0d2dc60abf65fda5eda7843212b16ada9005d2723e81",
+        "sha256_in_prefix": "b10a2444970faa8dcc0e0d2dc60abf65fda5eda7843212b16ada9005d2723e81",
+        "size_in_bytes": 3321
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/test_reduction.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "953cd24c4b91cb86e20b5a44930f4c49120b31577e8b1fc7c19bec8aed3079b1",
+        "sha256_in_prefix": "953cd24c4b91cb86e20b5a44930f4c49120b31577e8b1fc7c19bec8aed3079b1",
+        "size_in_bytes": 4422
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/__pycache__/test_tools.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c302f107034c7b3f9577acf32c7636ada879970231ffbf0d90609efe5815341",
+        "sha256_in_prefix": "1c302f107034c7b3f9577acf32c7636ada879970231ffbf0d90609efe5815341",
+        "size_in_bytes": 4481
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/main.py",
+        "path_type": "hardlink",
+        "sha256": "d7f756cf8b52d39e7915875968036633ca9a6efd24ef8b642df410415e245439",
+        "sha256_in_prefix": "d7f756cf8b52d39e7915875968036633ca9a6efd24ef8b642df410415e245439",
+        "size_in_bytes": 4535
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/support.py",
+        "path_type": "hardlink",
+        "sha256": "d89f950974b79245800eef09debfeb75525de138d941e349a07a6b17de72e484",
+        "sha256_in_prefix": "d89f950974b79245800eef09debfeb75525de138d941e349a07a6b17de72e484",
+        "size_in_bytes": 5147
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/test_basic.py",
+        "path_type": "hardlink",
+        "sha256": "d555879c9e590afa4b23a708c18bbd95b245458770bdc4b8a688440c5a3f9865",
+        "sha256_in_prefix": "d555879c9e590afa4b23a708c18bbd95b245458770bdc4b8a688440c5a3f9865",
+        "size_in_bytes": 2495
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/test_blas.py",
+        "path_type": "hardlink",
+        "sha256": "ce3a647cc974f069e69d7d7f73796a811ba854a8596b47ad3480d5d7f0dcf8b4",
+        "sha256_in_prefix": "ce3a647cc974f069e69d7d7f73796a811ba854a8596b47ad3480d5d7f0dcf8b4",
+        "size_in_bytes": 8569
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/test_collectives.py",
+        "path_type": "hardlink",
+        "sha256": "cf6f0997cbe9295b44fdac172dbd60794916b30208a8f28de6a21332694f65c2",
+        "sha256_in_prefix": "cf6f0997cbe9295b44fdac172dbd60794916b30208a8f28de6a21332694f65c2",
+        "size_in_bytes": 12098
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/test_elemwise.py",
+        "path_type": "hardlink",
+        "sha256": "809c43e63059c5298dea5acc92821e7ac88c18b59a5fcce55e2c4e95ca589688",
+        "sha256_in_prefix": "809c43e63059c5298dea5acc92821e7ac88c18b59a5fcce55e2c4e95ca589688",
+        "size_in_bytes": 11589
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/test_gpu_ndarray.py",
+        "path_type": "hardlink",
+        "sha256": "d4b51fb171fb9b1a948dad4f56c570a5fe53df491c3585272c219045ee9676ce",
+        "sha256_in_prefix": "d4b51fb171fb9b1a948dad4f56c570a5fe53df491c3585272c219045ee9676ce",
+        "size_in_bytes": 26790
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/test_operations.py",
+        "path_type": "hardlink",
+        "sha256": "2912d5037fc50cd8f1b79a975308afa7e221ebb9c9dbf96802fb3978d2b2fd94",
+        "sha256_in_prefix": "2912d5037fc50cd8f1b79a975308afa7e221ebb9c9dbf96802fb3978d2b2fd94",
+        "size_in_bytes": 2636
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/test_reduction.py",
+        "path_type": "hardlink",
+        "sha256": "f416a8fda33b8e378ffac3629c0f97b8937b220afa73e0dc263fe339c9a2fe27",
+        "sha256_in_prefix": "f416a8fda33b8e378ffac3629c0f97b8937b220afa73e0dc263fe339c9a2fe27",
+        "size_in_bytes": 4434
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tests/test_tools.py",
+        "path_type": "hardlink",
+        "sha256": "201ce0feb5b9e8b16a7a775f6fd3ac2c6edcaa9e6ba2e1ec301e6610622e98dd",
+        "sha256_in_prefix": "201ce0feb5b9e8b16a7a775f6fd3ac2c6edcaa9e6ba2e1ec301e6610622e98dd",
+        "size_in_bytes": 3878
+      },
+      {
+        "_path": "Lib/site-packages/pygpu/tools.py",
+        "path_type": "hardlink",
+        "sha256": "35badfe228dd72e7dc0475f97bb64d19c36e3121b4829ddedfe72539a04b66ff",
+        "sha256_in_prefix": "35badfe228dd72e7dc0475f97bb64d19c36e3121b4829ddedfe72539a04b66ff",
+        "size_in_bytes": 6392
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 596597,
+  "subdir": "win-64",
+  "timestamp": 1526496464857,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pygpu-0.7.6-py36h452e1ab_0.tar.bz2",
+  "version": "0.7.6"
+}

@@ -1,0 +1,59 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-libmangle-git-5.0.0.4509.2e5a9a2-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/include/libmangle.h",
+    "Library/mingw-w64/lib/libmangle.a",
+    "Library/mingw-w64/share/licenses/mingw-w64-libraries/COPYING.libmangle"
+  ],
+  "fn": "m2w64-libmangle-git-5.0.0.4509.2e5a9a2-2.tar.bz2",
+  "license": "custom",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-libmangle-git-5.0.0.4509.2e5a9a2-2",
+    "type": 1
+  },
+  "md5": "e564046a151ec5191a0354809aec7a0b",
+  "name": "m2w64-libmangle-git",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-libmangle-git-5.0.0.4509.2e5a9a2-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/include/libmangle.h",
+        "path_type": "hardlink",
+        "sha256": "fb48266a5124248020f4e4ac3d9232f4e46ef042b44b013b50683f4602268f6b",
+        "sha256_in_prefix": "fb48266a5124248020f4e4ac3d9232f4e46ef042b44b013b50683f4602268f6b",
+        "size_in_bytes": 3700
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libmangle.a",
+        "path_type": "hardlink",
+        "sha256": "63d4aee22d2a47a085f355946df8afc64c981878f947bc2ccb32b4747d1c5c01",
+        "sha256_in_prefix": "63d4aee22d2a47a085f355946df8afc64c981878f947bc2ccb32b4747d1c5c01",
+        "size_in_bytes": 41620
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/mingw-w64-libraries/COPYING.libmangle",
+        "path_type": "hardlink",
+        "sha256": "ae7a4090983e6ea0780c60c454016fd5e93b414b0de26ad041608ec66fbb54bb",
+        "sha256_in_prefix": "ae7a4090983e6ea0780c60c454016fd5e93b414b0de26ad041608ec66fbb54bb",
+        "size_in_bytes": 1109
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 22013,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libmangle-git-5.0.0.4509.2e5a9a2-2.tar.bz2",
+  "version": "5.0.0.4509.2e5a9a2"
+}

@@ -1,0 +1,80 @@
+{
+  "arch": "x86_64",
+  "build": "py36hb782905_5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2019.1,<2020.0a0",
+    "python >=3.6,<3.7.0a0",
+    "vc >=14.1,<15.0a0"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\mkl-service-1.1.2-py36hb782905_5",
+  "features": "",
+  "files": [
+    "Lib/site-packages/mkl/__init__.py",
+    "Lib/site-packages/mkl/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/mkl/__pycache__/test.cpython-36.pyc",
+    "Lib/site-packages/mkl/service.cp36-win_amd64.pyd",
+    "Lib/site-packages/mkl/test.py"
+  ],
+  "fn": "mkl-service-1.1.2-py36hb782905_5.tar.bz2",
+  "license": "3-clause BSD",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\mkl-service-1.1.2-py36hb782905_5",
+    "type": 1
+  },
+  "md5": "60cd094d9270bdb36066a8eb162eb9c1",
+  "name": "mkl-service",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\mkl-service-1.1.2-py36hb782905_5.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/mkl/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0636bdd3a012c17eb8c4a433d86fac79950f585d3eac8669ce0716c270512018",
+        "sha256_in_prefix": "0636bdd3a012c17eb8c4a433d86fac79950f585d3eac8669ce0716c270512018",
+        "size_in_bytes": 369
+      },
+      {
+        "_path": "Lib/site-packages/mkl/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e44c68ad3b9a9168568dc490e1aeba59179c509c6178df6a53a0fc0b18076dac",
+        "sha256_in_prefix": "e44c68ad3b9a9168568dc490e1aeba59179c509c6178df6a53a0fc0b18076dac",
+        "size_in_bytes": 516
+      },
+      {
+        "_path": "Lib/site-packages/mkl/__pycache__/test.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "fb773afa5d2706eebbefe20c7eb6411a9dad01aa01749e4d2b73e385d7ef8dd4",
+        "sha256_in_prefix": "fb773afa5d2706eebbefe20c7eb6411a9dad01aa01749e4d2b73e385d7ef8dd4",
+        "size_in_bytes": 1974
+      },
+      {
+        "_path": "Lib/site-packages/mkl/service.cp36-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "c18f6773818fe1dd79b3b8e5c42ff66753e9874b4c6a809b7202a0e7745bcad1",
+        "sha256_in_prefix": "c18f6773818fe1dd79b3b8e5c42ff66753e9874b4c6a809b7202a0e7745bcad1",
+        "size_in_bytes": 12800
+      },
+      {
+        "_path": "Lib/site-packages/mkl/test.py",
+        "path_type": "hardlink",
+        "sha256": "7bac5ddce0aea4450a5d59a14330f0a4cbbcafd9986d0cb5fcbd2021855b4d19",
+        "sha256_in_prefix": "7bac5ddce0aea4450a5d59a14330f0a4cbbcafd9986d0cb5fcbd2021855b4d19",
+        "size_in_bytes": 1387
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 137309,
+  "subdir": "win-64",
+  "timestamp": 1544935471726,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mkl-service-1.1.2-py36hb782905_5.tar.bz2",
+  "version": "1.1.2"
+}

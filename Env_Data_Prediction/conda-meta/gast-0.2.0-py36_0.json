@@ -1,0 +1,149 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\gast-0.2.0-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/gast-0.2.0-py3.6.egg-info/PKG-INFO",
+    "Lib/site-packages/gast-0.2.0-py3.6.egg-info/SOURCES.txt",
+    "Lib/site-packages/gast-0.2.0-py3.6.egg-info/dependency_links.txt",
+    "Lib/site-packages/gast-0.2.0-py3.6.egg-info/top_level.txt",
+    "Lib/site-packages/gast/__init__.py",
+    "Lib/site-packages/gast/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/gast/__pycache__/ast2.cpython-36.pyc",
+    "Lib/site-packages/gast/__pycache__/ast3.cpython-36.pyc",
+    "Lib/site-packages/gast/__pycache__/astn.cpython-36.pyc",
+    "Lib/site-packages/gast/__pycache__/gast.cpython-36.pyc",
+    "Lib/site-packages/gast/ast2.py",
+    "Lib/site-packages/gast/ast3.py",
+    "Lib/site-packages/gast/astn.py",
+    "Lib/site-packages/gast/gast.py"
+  ],
+  "fn": "gast-0.2.0-py36_0.tar.bz2",
+  "license": "BSD License",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\gast-0.2.0-py36_0",
+    "type": 1
+  },
+  "md5": "ec451ab7a1a24af99cde9f08406353e7",
+  "name": "gast",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\gast-0.2.0-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/gast-0.2.0-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "3dbdd437def7ac2a2097472ade3b23152f935f87e262d0b2b056ed91d3c794c8",
+        "sha256_in_prefix": "3dbdd437def7ac2a2097472ade3b23152f935f87e262d0b2b056ed91d3c794c8",
+        "size_in_bytes": 877
+      },
+      {
+        "_path": "Lib/site-packages/gast-0.2.0-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "cc7bbf64992277322b189dab16a44b9450b494346ee934d8b79310f07fd7a4c6",
+        "sha256_in_prefix": "cc7bbf64992277322b189dab16a44b9450b494346ee934d8b79310f07fd7a4c6",
+        "size_in_bytes": 298
+      },
+      {
+        "_path": "Lib/site-packages/gast-0.2.0-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/gast-0.2.0-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3996390ef0cd01fd7bf92301475a573d5ee227222947eeac14080e7c573f573f",
+        "sha256_in_prefix": "3996390ef0cd01fd7bf92301475a573d5ee227222947eeac14080e7c573f573f",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/gast/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9effdd59a4c3a276a72e10de15f500d4721a4bd30e80fb4466fa27aacd242b74",
+        "sha256_in_prefix": "9effdd59a4c3a276a72e10de15f500d4721a4bd30e80fb4466fa27aacd242b74",
+        "size_in_bytes": 200
+      },
+      {
+        "_path": "Lib/site-packages/gast/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5426ef5922e0d02f8d723d6912cff6b506dc586c2bdc9dcd702d3f36573aa267",
+        "sha256_in_prefix": "5426ef5922e0d02f8d723d6912cff6b506dc586c2bdc9dcd702d3f36573aa267",
+        "size_in_bytes": 370
+      },
+      {
+        "_path": "Lib/site-packages/gast/__pycache__/ast2.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "23f49c9e160686289373d42c5d420c1069e88ec1efe60d34dcd58a319afcbe75",
+        "sha256_in_prefix": "23f49c9e160686289373d42c5d420c1069e88ec1efe60d34dcd58a319afcbe75",
+        "size_in_bytes": 6100
+      },
+      {
+        "_path": "Lib/site-packages/gast/__pycache__/ast3.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "8580d95719fdadee35a5123763147824078771799a8a96618f9583ea9077527d",
+        "sha256_in_prefix": "8580d95719fdadee35a5123763147824078771799a8a96618f9583ea9077527d",
+        "size_in_bytes": 5913
+      },
+      {
+        "_path": "Lib/site-packages/gast/__pycache__/astn.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6582452dd0404707659ec7b8f07a6204d9d2b09fc9bfc55f9a3173e4ebbee52d",
+        "sha256_in_prefix": "6582452dd0404707659ec7b8f07a6204d9d2b09fc9bfc55f9a3173e4ebbee52d",
+        "size_in_bytes": 1346
+      },
+      {
+        "_path": "Lib/site-packages/gast/__pycache__/gast.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "1f1c4b32113cc61abecf2691bdf7b339a01fc28cee090a3d6d8439ba997a6eb4",
+        "sha256_in_prefix": "1f1c4b32113cc61abecf2691bdf7b339a01fc28cee090a3d6d8439ba997a6eb4",
+        "size_in_bytes": 6290
+      },
+      {
+        "_path": "Lib/site-packages/gast/ast2.py",
+        "path_type": "hardlink",
+        "sha256": "436c7c69ab2d4a49c79b9c43fd0ed20ef7a6a1f55f05c2a01691c084f40ed329",
+        "sha256_in_prefix": "436c7c69ab2d4a49c79b9c43fd0ed20ef7a6a1f55f05c2a01691c084f40ed329",
+        "size_in_bytes": 7224
+      },
+      {
+        "_path": "Lib/site-packages/gast/ast3.py",
+        "path_type": "hardlink",
+        "sha256": "da83432af4ab4ee49aa56ce07983a1210a6303de07de0ca5ce126985a95cde5a",
+        "sha256_in_prefix": "da83432af4ab4ee49aa56ce07983a1210a6303de07de0ca5ce126985a95cde5a",
+        "size_in_bytes": 6678
+      },
+      {
+        "_path": "Lib/site-packages/gast/astn.py",
+        "path_type": "hardlink",
+        "sha256": "29f7e6e9eaa5e32402ec5c6971eb228cf010c40b9f7d6e0c239d40b366502d92",
+        "sha256_in_prefix": "29f7e6e9eaa5e32402ec5c6971eb228cf010c40b9f7d6e0c239d40b366502d92",
+        "size_in_bytes": 997
+      },
+      {
+        "_path": "Lib/site-packages/gast/gast.py",
+        "path_type": "hardlink",
+        "sha256": "3d22a83e236d8ee704de8abc557e60518d681a96a2d7b855cb13894014982253",
+        "sha256_in_prefix": "3d22a83e236d8ee704de8abc557e60518d681a96a2d7b855cb13894014982253",
+        "size_in_bytes": 9289
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 15625,
+  "subdir": "win-64",
+  "timestamp": 1519946272196,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/gast-0.2.0-py36_0.tar.bz2",
+  "version": "0.2.0"
+}

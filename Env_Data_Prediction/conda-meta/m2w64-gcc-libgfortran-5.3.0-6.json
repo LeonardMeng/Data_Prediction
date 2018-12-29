@@ -1,0 +1,44 @@
+{
+  "arch": "x86_64",
+  "build": "6",
+  "build_number": 6,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs-core",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-libgfortran-5.3.0-6",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libgfortran-3.dll"
+  ],
+  "fn": "m2w64-gcc-libgfortran-5.3.0-6.tar.bz2",
+  "license": "GPL, LGPL, FDL, custom",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-libgfortran-5.3.0-6",
+    "type": 1
+  },
+  "md5": "de1b7f7c8221028f6bbe103df4c53bed",
+  "name": "m2w64-gcc-libgfortran",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-libgfortran-5.3.0-6.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libgfortran-3.dll",
+        "path_type": "hardlink",
+        "sha256": "5869f77ee45468dfe9a0ab582506eb892e6d65c07a61105fd715baf54272b6ae",
+        "sha256_in_prefix": "5869f77ee45468dfe9a0ab582506eb892e6d65c07a61105fd715baf54272b6ae",
+        "size_in_bytes": 1289179
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 348607,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-gcc-libgfortran-5.3.0-6.tar.bz2",
+  "version": "5.3.0"
+}

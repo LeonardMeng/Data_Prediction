@@ -1,0 +1,219 @@
+{
+  "arch": "x86_64",
+  "build": "6",
+  "build_number": 6,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-libiconv-1.14-6",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libcharset-1.dll",
+    "Library/mingw-w64/bin/libiconv-2.dll",
+    "Library/mingw-w64/include/iconv.h",
+    "Library/mingw-w64/include/libcharset.h",
+    "Library/mingw-w64/include/localcharset.h",
+    "Library/mingw-w64/lib/libcharset.a",
+    "Library/mingw-w64/lib/libcharset.dll.a",
+    "Library/mingw-w64/lib/libiconv.a",
+    "Library/mingw-w64/lib/libiconv.dll.a",
+    "Library/mingw-w64/share/doc/libiconv/iconv.3.html",
+    "Library/mingw-w64/share/doc/libiconv/iconv_close.3.html",
+    "Library/mingw-w64/share/doc/libiconv/iconv_open.3.html",
+    "Library/mingw-w64/share/doc/libiconv/iconv_open_into.3.html",
+    "Library/mingw-w64/share/doc/libiconv/iconvctl.3.html",
+    "Library/mingw-w64/share/licenses/libiconv/COPYING",
+    "Library/mingw-w64/share/licenses/libiconv/COPYING.LIB",
+    "Library/mingw-w64/share/licenses/libiconv/README",
+    "Library/mingw-w64/share/licenses/libiconv/libcharset/COPYING.LIB",
+    "Library/mingw-w64/share/man/man3/iconv.3.gz",
+    "Library/mingw-w64/share/man/man3/iconv_close.3.gz",
+    "Library/mingw-w64/share/man/man3/iconv_open.3.gz",
+    "Library/mingw-w64/share/man/man3/iconv_open_into.3.gz",
+    "Library/mingw-w64/share/man/man3/iconvctl.3.gz"
+  ],
+  "fn": "m2w64-libiconv-1.14-6.tar.bz2",
+  "license": "LGPL2, documentation:GPL3",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-libiconv-1.14-6",
+    "type": 1
+  },
+  "md5": "2f98e65f0804a54bf8666fb6354769f0",
+  "name": "m2w64-libiconv",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-libiconv-1.14-6.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libcharset-1.dll",
+        "path_type": "hardlink",
+        "sha256": "937782e66a666f9df3ce60fe9cc9b3856ecca6cf7e997f22bde5f1475cfeaecc",
+        "sha256_in_prefix": "937782e66a666f9df3ce60fe9cc9b3856ecca6cf7e997f22bde5f1475cfeaecc",
+        "size_in_bytes": 43378
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libiconv-2.dll",
+        "path_type": "hardlink",
+        "sha256": "dd346113792e712332be80f153cc063712e21f99bdf095d1eafa2680fc7f5d44",
+        "sha256_in_prefix": "dd346113792e712332be80f153cc063712e21f99bdf095d1eafa2680fc7f5d44",
+        "size_in_bytes": 1050543
+      },
+      {
+        "_path": "Library/mingw-w64/include/iconv.h",
+        "path_type": "hardlink",
+        "sha256": "51a9e8469e3e4db4789d6798d7a85455be3b867095c118531b95a955e4eb22e8",
+        "sha256_in_prefix": "51a9e8469e3e4db4789d6798d7a85455be3b867095c118531b95a955e4eb22e8",
+        "size_in_bytes": 9365
+      },
+      {
+        "_path": "Library/mingw-w64/include/libcharset.h",
+        "path_type": "hardlink",
+        "sha256": "79486d2ef734a52d6ebaea3ec32a0a7d071e680280f1ac7832badc21f536a118",
+        "sha256_in_prefix": "79486d2ef734a52d6ebaea3ec32a0a7d071e680280f1ac7832badc21f536a118",
+        "size_in_bytes": 1585
+      },
+      {
+        "_path": "Library/mingw-w64/include/localcharset.h",
+        "path_type": "hardlink",
+        "sha256": "8e1e2a246e9be6c2331d9edbda5699e0cd40eb472bf3c3ba02aa086a14110021",
+        "sha256_in_prefix": "8e1e2a246e9be6c2331d9edbda5699e0cd40eb472bf3c3ba02aa086a14110021",
+        "size_in_bytes": 1395
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libcharset.a",
+        "path_type": "hardlink",
+        "sha256": "26c404f205e5437515f577c3bbff5fb6ec2209b670124f2b0229183e640389e9",
+        "sha256_in_prefix": "26c404f205e5437515f577c3bbff5fb6ec2209b670124f2b0229183e640389e9",
+        "size_in_bytes": 3800
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libcharset.dll.a",
+        "path_type": "hardlink",
+        "sha256": "f0e24c56d4acd1f177b6e0bcea29f621c1094fbf123e301ba167355b7b8b48f5",
+        "sha256_in_prefix": "f0e24c56d4acd1f177b6e0bcea29f621c1094fbf123e301ba167355b7b8b48f5",
+        "size_in_bytes": 2824
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libiconv.a",
+        "path_type": "hardlink",
+        "sha256": "dbf5b9696afff262bc362adeafbafe080dcf08d44d13d44e474507ab55f84afd",
+        "sha256_in_prefix": "dbf5b9696afff262bc362adeafbafe080dcf08d44d13d44e474507ab55f84afd",
+        "size_in_bytes": 1078612
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libiconv.dll.a",
+        "path_type": "hardlink",
+        "sha256": "9fa85c0c3be270e8405aa894e97846c0165aa2ffdb35fc0ed189d45291402b57",
+        "sha256_in_prefix": "9fa85c0c3be270e8405aa894e97846c0165aa2ffdb35fc0ed189d45291402b57",
+        "size_in_bytes": 8964
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libiconv/iconv.3.html",
+        "path_type": "hardlink",
+        "sha256": "b38ca1e3b43eab100da1fd7d5cccb3cff6ded4447c2a52c074d53bbd58df8df3",
+        "sha256_in_prefix": "b38ca1e3b43eab100da1fd7d5cccb3cff6ded4447c2a52c074d53bbd58df8df3",
+        "size_in_bytes": 6383
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libiconv/iconv_close.3.html",
+        "path_type": "hardlink",
+        "sha256": "f172606d288393dca9c048de33fc32993b62a049f7ab74b1fb711b5f03f1c4c6",
+        "sha256_in_prefix": "f172606d288393dca9c048de33fc32993b62a049f7ab74b1fb711b5f03f1c4c6",
+        "size_in_bytes": 2102
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libiconv/iconv_open.3.html",
+        "path_type": "hardlink",
+        "sha256": "3e3c785d8bdd682d3b4214961f1c6a7416815b5df8e865f1416c07ed3b4ff21c",
+        "sha256_in_prefix": "3e3c785d8bdd682d3b4214961f1c6a7416815b5df8e865f1416c07ed3b4ff21c",
+        "size_in_bytes": 8509
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libiconv/iconv_open_into.3.html",
+        "path_type": "hardlink",
+        "sha256": "62afaae959bf03af148002fc31f37b53ceef40ca4ddd187a836f18196570cbb1",
+        "sha256_in_prefix": "62afaae959bf03af148002fc31f37b53ceef40ca4ddd187a836f18196570cbb1",
+        "size_in_bytes": 4294
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/libiconv/iconvctl.3.html",
+        "path_type": "hardlink",
+        "sha256": "9fffde85506437fe673f7edb720c73be2ff7132e5fabf4647cf4e3c30cb2fbaf",
+        "sha256_in_prefix": "9fffde85506437fe673f7edb720c73be2ff7132e5fabf4647cf4e3c30cb2fbaf",
+        "size_in_bytes": 6810
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/libiconv/COPYING",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/libiconv/COPYING.LIB",
+        "path_type": "hardlink",
+        "sha256": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+        "sha256_in_prefix": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+        "size_in_bytes": 25291
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/libiconv/README",
+        "path_type": "hardlink",
+        "sha256": "ce701508dc3dc2c99433942d6ff1607c2cc6dd00ce5d0929b93ead4603cb2dcf",
+        "sha256_in_prefix": "ce701508dc3dc2c99433942d6ff1607c2cc6dd00ce5d0929b93ead4603cb2dcf",
+        "size_in_bytes": 5777
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/libiconv/libcharset/COPYING.LIB",
+        "path_type": "hardlink",
+        "sha256": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+        "sha256_in_prefix": "56bdea73b6145ef6ac5259b3da390b981d840c24cb03b8e1cbc678de7ecfa18d",
+        "size_in_bytes": 25291
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/iconv.3.gz",
+        "path_type": "hardlink",
+        "sha256": "864c2267c9d2c9294ef526e551d67ab3618b2b8896c49b98413aa024f987c1ba",
+        "sha256_in_prefix": "864c2267c9d2c9294ef526e551d67ab3618b2b8896c49b98413aa024f987c1ba",
+        "size_in_bytes": 1541
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/iconv_close.3.gz",
+        "path_type": "hardlink",
+        "sha256": "e74ee018df4cdc08ebc22d7408a8d6ffcf79930e02d4c36e9c758a9f785a2d05",
+        "sha256_in_prefix": "e74ee018df4cdc08ebc22d7408a8d6ffcf79930e02d4c36e9c758a9f785a2d05",
+        "size_in_bytes": 651
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/iconv_open.3.gz",
+        "path_type": "hardlink",
+        "sha256": "4c51718c99d2af1c3c13674ed33b4e9007d94d1bff3a2db33a37712e4fddf588",
+        "sha256_in_prefix": "4c51718c99d2af1c3c13674ed33b4e9007d94d1bff3a2db33a37712e4fddf588",
+        "size_in_bytes": 2199
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/iconv_open_into.3.gz",
+        "path_type": "hardlink",
+        "sha256": "31bc65825dfae1e2f5870a33b72f632f6e622e0406a2a96f1e9ec4c78d88f959",
+        "sha256_in_prefix": "31bc65825dfae1e2f5870a33b72f632f6e622e0406a2a96f1e9ec4c78d88f959",
+        "size_in_bytes": 938
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/iconvctl.3.gz",
+        "path_type": "hardlink",
+        "sha256": "397f2c50cfa8b1157e365326cd6d4479e039313b597955ae0dd270d0d337fba4",
+        "sha256_in_prefix": "397f2c50cfa8b1157e365326cd6d4479e039313b597955ae0dd270d0d337fba4",
+        "size_in_bytes": 1094
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 1537693,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libiconv-1.14-6.tar.bz2",
+  "version": "1.14"
+}

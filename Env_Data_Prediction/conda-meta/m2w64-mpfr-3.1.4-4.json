@@ -1,0 +1,164 @@
+{
+  "arch": "x86_64",
+  "build": "4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gmp",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-mpfr-3.1.4-4",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/include/mpf2mpfr.h",
+    "Library/mingw-w64/include/mpfr.h",
+    "Library/mingw-w64/lib/libmpfr.a",
+    "Library/mingw-w64/share/doc/mpfr/AUTHORS",
+    "Library/mingw-w64/share/doc/mpfr/BUGS",
+    "Library/mingw-w64/share/doc/mpfr/COPYING",
+    "Library/mingw-w64/share/doc/mpfr/COPYING.LESSER",
+    "Library/mingw-w64/share/doc/mpfr/FAQ.html",
+    "Library/mingw-w64/share/doc/mpfr/NEWS",
+    "Library/mingw-w64/share/doc/mpfr/TODO",
+    "Library/mingw-w64/share/doc/mpfr/examples/ReadMe",
+    "Library/mingw-w64/share/doc/mpfr/examples/divworst.c",
+    "Library/mingw-w64/share/doc/mpfr/examples/rndo-add.c",
+    "Library/mingw-w64/share/doc/mpfr/examples/sample.c",
+    "Library/mingw-w64/share/doc/mpfr/examples/version.c",
+    "Library/mingw-w64/share/info/mpfr.info.gz"
+  ],
+  "fn": "m2w64-mpfr-3.1.4-4.tar.bz2",
+  "license": "LGPL",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-mpfr-3.1.4-4",
+    "type": 1
+  },
+  "md5": "9052e2617adf389f715deed87d1beedb",
+  "name": "m2w64-mpfr",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-mpfr-3.1.4-4.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/include/mpf2mpfr.h",
+        "path_type": "hardlink",
+        "sha256": "f2b977bf6f41b039539c35d8b4c52f55d769d75566c0e41ea6847d9554e1f89a",
+        "sha256_in_prefix": "f2b977bf6f41b039539c35d8b4c52f55d769d75566c0e41ea6847d9554e1f89a",
+        "size_in_bytes": 6236
+      },
+      {
+        "_path": "Library/mingw-w64/include/mpfr.h",
+        "path_type": "hardlink",
+        "sha256": "103971649a0693aae23b87dfb1f88d1a5ddfb0c88ac5950257258667fb2556d0",
+        "sha256_in_prefix": "103971649a0693aae23b87dfb1f88d1a5ddfb0c88ac5950257258667fb2556d0",
+        "size_in_bytes": 51307
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libmpfr.a",
+        "path_type": "hardlink",
+        "sha256": "13f67c903550b3d8c83f1c9960ca0b087a4c95a89e0cf1bc0283061e0e17acf3",
+        "sha256_in_prefix": "13f67c903550b3d8c83f1c9960ca0b087a4c95a89e0cf1bc0283061e0e17acf3",
+        "size_in_bytes": 805084
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "a39c65806ae205d29d6b0efdc3c8c0cf6b2ca2ff3f9f62d91d7127e1550da62e",
+        "sha256_in_prefix": "a39c65806ae205d29d6b0efdc3c8c0cf6b2ca2ff3f9f62d91d7127e1550da62e",
+        "size_in_bytes": 1149
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/BUGS",
+        "path_type": "hardlink",
+        "sha256": "f571d5b3de3b55077fcea67a6319bc745794533c2f64d86f20f0f601c322b52a",
+        "sha256_in_prefix": "f571d5b3de3b55077fcea67a6319bc745794533c2f64d86f20f0f601c322b52a",
+        "size_in_bytes": 3284
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/COPYING",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/COPYING.LESSER",
+        "path_type": "hardlink",
+        "sha256": "a853c2ffec17057872340eee242ae4d96cbf2b520ae27d903e1b2fef1a5f9d1c",
+        "sha256_in_prefix": "a853c2ffec17057872340eee242ae4d96cbf2b520ae27d903e1b2fef1a5f9d1c",
+        "size_in_bytes": 7639
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/FAQ.html",
+        "path_type": "hardlink",
+        "sha256": "36f2fee73a956bb166aad9fd5f8b7ae460ae3b134e3f3ba8b0c3d02ee952c0f6",
+        "sha256_in_prefix": "36f2fee73a956bb166aad9fd5f8b7ae460ae3b134e3f3ba8b0c3d02ee952c0f6",
+        "size_in_bytes": 18166
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/NEWS",
+        "path_type": "hardlink",
+        "sha256": "02887a575670c9c45bebaa467b2df1739b3972d8d7a5105104640e9f7f066bea",
+        "sha256_in_prefix": "02887a575670c9c45bebaa467b2df1739b3972d8d7a5105104640e9f7f066bea",
+        "size_in_bytes": 16930
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/TODO",
+        "path_type": "hardlink",
+        "sha256": "792b1eb6cd1dbfbcdf45ae9649e1501128285b8cd7e655fdbc036494c893a263",
+        "sha256_in_prefix": "792b1eb6cd1dbfbcdf45ae9649e1501128285b8cd7e655fdbc036494c893a263",
+        "size_in_bytes": 21092
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/examples/ReadMe",
+        "path_type": "hardlink",
+        "sha256": "4b503f2cd881013af415ae498ab1ac88a2c4cb5ed766fa6f5e227113145c53d0",
+        "sha256_in_prefix": "4b503f2cd881013af415ae498ab1ac88a2c4cb5ed766fa6f5e227113145c53d0",
+        "size_in_bytes": 41
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/examples/divworst.c",
+        "path_type": "hardlink",
+        "sha256": "fe50ae966995a5455bf1d3face6b670481256c9a48da372594e6038270983b29",
+        "sha256_in_prefix": "fe50ae966995a5455bf1d3face6b670481256c9a48da372594e6038270983b29",
+        "size_in_bytes": 3021
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/examples/rndo-add.c",
+        "path_type": "hardlink",
+        "sha256": "68e5473884ef4d648455e83eae783f0b38d080ef070fd695d6c86bdde1c48cce",
+        "sha256_in_prefix": "68e5473884ef4d648455e83eae783f0b38d080ef070fd695d6c86bdde1c48cce",
+        "size_in_bytes": 2642
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/examples/sample.c",
+        "path_type": "hardlink",
+        "sha256": "ec8336de7526ca0b1f87102f936b46f6fdb3403659ac725f7090fbdfe12ec983",
+        "sha256_in_prefix": "ec8336de7526ca0b1f87102f936b46f6fdb3403659ac725f7090fbdfe12ec983",
+        "size_in_bytes": 1657
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/mpfr/examples/version.c",
+        "path_type": "hardlink",
+        "sha256": "3f675175dd9ba63e655f24c57a5bac2f5da86dab3c2efd96269deddc0b9c2e79",
+        "sha256_in_prefix": "3f675175dd9ba63e655f24c57a5bac2f5da86dab3c2efd96269deddc0b9c2e79",
+        "size_in_bytes": 3664
+      },
+      {
+        "_path": "Library/mingw-w64/share/info/mpfr.info.gz",
+        "path_type": "hardlink",
+        "sha256": "841aad6f60a14ecb2234570599791e800f7236c9ffffffa0c377767d49381957",
+        "sha256_in_prefix": "841aad6f60a14ecb2234570599791e800f7236c9ffffffa0c377767d49381957",
+        "size_in_bytes": 52675
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 300127,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-mpfr-3.1.4-4.tar.bz2",
+  "version": "3.1.4"
+}

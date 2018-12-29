@@ -1,0 +1,68 @@
+{
+  "arch": "x86_64",
+  "build": "he774522_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\sqlite-3.26.0-he774522_0",
+  "features": "",
+  "files": [
+    "Library/bin/sqlite3.dll",
+    "Library/bin/sqlite3.exe",
+    "Library/include/sqlite3.h",
+    "Library/lib/sqlite3.lib"
+  ],
+  "fn": "sqlite-3.26.0-he774522_0.tar.bz2",
+  "license": "Public-Domain (http://www.sqlite.org/copyright.html)",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\sqlite-3.26.0-he774522_0",
+    "type": 1
+  },
+  "md5": "40738f3130ce5145f6060160b30c1839",
+  "name": "sqlite",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\sqlite-3.26.0-he774522_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/sqlite3.dll",
+        "path_type": "hardlink",
+        "sha256": "07bf1604a993c0bb98e59c91cb73312ab7b246c0640ae3ea2fc34d7e1b0d1470",
+        "sha256_in_prefix": "07bf1604a993c0bb98e59c91cb73312ab7b246c0640ae3ea2fc34d7e1b0d1470",
+        "size_in_bytes": 1023488
+      },
+      {
+        "_path": "Library/bin/sqlite3.exe",
+        "path_type": "hardlink",
+        "sha256": "44e8af56bbbc555fe4cb726ec77b43d50cd224647f180d45581fdbd8ea97456c",
+        "sha256_in_prefix": "44e8af56bbbc555fe4cb726ec77b43d50cd224647f180d45581fdbd8ea97456c",
+        "size_in_bytes": 1280000
+      },
+      {
+        "_path": "Library/include/sqlite3.h",
+        "path_type": "hardlink",
+        "sha256": "4c9750b332a765c2f6b45417facdfcbe6096cd1f5c934d46198661d0d82fd9b4",
+        "sha256_in_prefix": "4c9750b332a765c2f6b45417facdfcbe6096cd1f5c934d46198661d0d82fd9b4",
+        "size_in_bytes": 556453
+      },
+      {
+        "_path": "Library/lib/sqlite3.lib",
+        "path_type": "hardlink",
+        "sha256": "a939102e6fc0d755e145db01706c921eb3f4062fb35bc3e9b34d6ca752bf51e5",
+        "sha256_in_prefix": "a939102e6fc0d755e145db01706c921eb3f4062fb35bc3e9b34d6ca752bf51e5",
+        "size_in_bytes": 58912
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 958106,
+  "subdir": "win-64",
+  "timestamp": 1545057799094,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.26.0-he774522_0.tar.bz2",
+  "version": "3.26.0"
+}

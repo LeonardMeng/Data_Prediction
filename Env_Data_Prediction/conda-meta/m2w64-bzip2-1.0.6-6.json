@@ -1,0 +1,236 @@
+{
+  "arch": "x86_64",
+  "build": "6",
+  "build_number": 6,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-bzip2-1.0.6-6",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/bunzip2.exe",
+    "Library/mingw-w64/bin/bzcat.exe",
+    "Library/mingw-w64/bin/bzcmp",
+    "Library/mingw-w64/bin/bzdiff",
+    "Library/mingw-w64/bin/bzegrep",
+    "Library/mingw-w64/bin/bzfgrep",
+    "Library/mingw-w64/bin/bzgrep",
+    "Library/mingw-w64/bin/bzip2.exe",
+    "Library/mingw-w64/bin/bzip2recover.exe",
+    "Library/mingw-w64/bin/bzless",
+    "Library/mingw-w64/bin/bzmore",
+    "Library/mingw-w64/bin/libbz2-1.dll",
+    "Library/mingw-w64/include/bzlib.h",
+    "Library/mingw-w64/lib/libbz2.a",
+    "Library/mingw-w64/lib/libbz2.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/bzip2.pc",
+    "Library/mingw-w64/share/licenses/bzip2/LICENSE",
+    "Library/mingw-w64/share/man/man1/bzcmp.1.gz",
+    "Library/mingw-w64/share/man/man1/bzdiff.1.gz",
+    "Library/mingw-w64/share/man/man1/bzegrep.1.gz",
+    "Library/mingw-w64/share/man/man1/bzfgrep.1.gz",
+    "Library/mingw-w64/share/man/man1/bzgrep.1.gz",
+    "Library/mingw-w64/share/man/man1/bzip2.1.gz",
+    "Library/mingw-w64/share/man/man1/bzless.1.gz",
+    "Library/mingw-w64/share/man/man1/bzmore.1.gz"
+  ],
+  "fn": "m2w64-bzip2-1.0.6-6.tar.bz2",
+  "license": "custom",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-bzip2-1.0.6-6",
+    "type": 1
+  },
+  "md5": "60afaba2eb6b9bdafd93185593726539",
+  "name": "m2w64-bzip2",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-bzip2-1.0.6-6.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/bunzip2.exe",
+        "path_type": "hardlink",
+        "sha256": "b8c00914ebfdb00119d10e9eaa7a1ec99ff73ff7fce5e17ee93a0782b8dc3ad0",
+        "sha256_in_prefix": "b8c00914ebfdb00119d10e9eaa7a1ec99ff73ff7fce5e17ee93a0782b8dc3ad0",
+        "size_in_bytes": 48732
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzcat.exe",
+        "path_type": "hardlink",
+        "sha256": "e27943ca68ef300bf0ad7e5b3cc046e4c772a77dc1625f097d856f38b862dd1c",
+        "sha256_in_prefix": "e27943ca68ef300bf0ad7e5b3cc046e4c772a77dc1625f097d856f38b862dd1c",
+        "size_in_bytes": 48732
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzcmp",
+        "path_type": "hardlink",
+        "sha256": "ca96220d7df823031c028dbb32183e6a8e9e05737eda10b97ec9c3e01724d6cf",
+        "sha256_in_prefix": "ca96220d7df823031c028dbb32183e6a8e9e05737eda10b97ec9c3e01724d6cf",
+        "size_in_bytes": 2128
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzdiff",
+        "path_type": "hardlink",
+        "sha256": "ca96220d7df823031c028dbb32183e6a8e9e05737eda10b97ec9c3e01724d6cf",
+        "sha256_in_prefix": "ca96220d7df823031c028dbb32183e6a8e9e05737eda10b97ec9c3e01724d6cf",
+        "size_in_bytes": 2128
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzegrep",
+        "path_type": "hardlink",
+        "sha256": "d8472a3d6d1566263ed7f01d27ff75706a185155db5f42f1d9dae33480dd3d37",
+        "sha256_in_prefix": "d8472a3d6d1566263ed7f01d27ff75706a185155db5f42f1d9dae33480dd3d37",
+        "size_in_bytes": 3642
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzfgrep",
+        "path_type": "hardlink",
+        "sha256": "d8472a3d6d1566263ed7f01d27ff75706a185155db5f42f1d9dae33480dd3d37",
+        "sha256_in_prefix": "d8472a3d6d1566263ed7f01d27ff75706a185155db5f42f1d9dae33480dd3d37",
+        "size_in_bytes": 3642
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzgrep",
+        "path_type": "hardlink",
+        "sha256": "d8472a3d6d1566263ed7f01d27ff75706a185155db5f42f1d9dae33480dd3d37",
+        "sha256_in_prefix": "d8472a3d6d1566263ed7f01d27ff75706a185155db5f42f1d9dae33480dd3d37",
+        "size_in_bytes": 3642
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzip2.exe",
+        "path_type": "hardlink",
+        "sha256": "e27943ca68ef300bf0ad7e5b3cc046e4c772a77dc1625f097d856f38b862dd1c",
+        "sha256_in_prefix": "e27943ca68ef300bf0ad7e5b3cc046e4c772a77dc1625f097d856f38b862dd1c",
+        "size_in_bytes": 48732
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzip2recover.exe",
+        "path_type": "hardlink",
+        "sha256": "463051b9c48029cc9986477488846706ce93738c9aafc5267c87248e96011457",
+        "sha256_in_prefix": "463051b9c48029cc9986477488846706ce93738c9aafc5267c87248e96011457",
+        "size_in_bytes": 26250
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzless",
+        "path_type": "hardlink",
+        "sha256": "0e7ca63849eebc9ea476ea1fefab05e60b0ac8066f73c7d58e8ff607c941f212",
+        "sha256_in_prefix": "0e7ca63849eebc9ea476ea1fefab05e60b0ac8066f73c7d58e8ff607c941f212",
+        "size_in_bytes": 1297
+      },
+      {
+        "_path": "Library/mingw-w64/bin/bzmore",
+        "path_type": "hardlink",
+        "sha256": "0e7ca63849eebc9ea476ea1fefab05e60b0ac8066f73c7d58e8ff607c941f212",
+        "sha256_in_prefix": "0e7ca63849eebc9ea476ea1fefab05e60b0ac8066f73c7d58e8ff607c941f212",
+        "size_in_bytes": 1297
+      },
+      {
+        "_path": "Library/mingw-w64/bin/libbz2-1.dll",
+        "path_type": "hardlink",
+        "sha256": "cb5df7c5577839996278a88b92b1e944feebb846e9eaa8c0742183d668c161de",
+        "sha256_in_prefix": "cb5df7c5577839996278a88b92b1e944feebb846e9eaa8c0742183d668c161de",
+        "size_in_bytes": 73888
+      },
+      {
+        "_path": "Library/mingw-w64/include/bzlib.h",
+        "path_type": "hardlink",
+        "sha256": "f9e12e27103a1b05dea2a14ecd6a961170d084fe35ec2ae45bd7a87af07c5c0a",
+        "sha256_in_prefix": "f9e12e27103a1b05dea2a14ecd6a961170d084fe35ec2ae45bd7a87af07c5c0a",
+        "size_in_bytes": 7192
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libbz2.a",
+        "path_type": "hardlink",
+        "sha256": "689fef5724dedb64359bf3adc522344fafa0aa0b9f1aa8b83a26d7f054f4e87c",
+        "sha256_in_prefix": "689fef5724dedb64359bf3adc522344fafa0aa0b9f1aa8b83a26d7f054f4e87c",
+        "size_in_bytes": 67552
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libbz2.dll.a",
+        "path_type": "hardlink",
+        "sha256": "52e69c57ccc287759c3ae09a91235a71cbd5a1ee3a88944c30c901040a603c10",
+        "sha256_in_prefix": "52e69c57ccc287759c3ae09a91235a71cbd5a1ee3a88944c30c901040a603c10",
+        "size_in_bytes": 22586
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/bzip2.pc",
+        "path_type": "hardlink",
+        "sha256": "a9ffe74e9e3028e65436c013b93f618a545a50624bbec8630b662b7fc0352282",
+        "sha256_in_prefix": "a9ffe74e9e3028e65436c013b93f618a545a50624bbec8630b662b7fc0352282",
+        "size_in_bytes": 249
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/bzip2/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "4919cfb14a73cd64fcef67b107613970cf1659a09aa675dba31314f373bc7204",
+        "sha256_in_prefix": "4919cfb14a73cd64fcef67b107613970cf1659a09aa675dba31314f373bc7204",
+        "size_in_bytes": 1901
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/bzcmp.1.gz",
+        "path_type": "hardlink",
+        "sha256": "615042db5ea26a899372fb7fc1a8e13dd651e7e14a060be520c1f859c1bfbecf",
+        "sha256_in_prefix": "615042db5ea26a899372fb7fc1a8e13dd651e7e14a060be520c1f859c1bfbecf",
+        "size_in_bytes": 38
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/bzdiff.1.gz",
+        "path_type": "hardlink",
+        "sha256": "e3e397f993320285aad5c9594c79236ee06fc16af7c3063ffd589576504ca759",
+        "sha256_in_prefix": "e3e397f993320285aad5c9594c79236ee06fc16af7c3063ffd589576504ca759",
+        "size_in_bytes": 484
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/bzegrep.1.gz",
+        "path_type": "hardlink",
+        "sha256": "cc8a207a5d6d3de33c1095d824801991d310e1f9515b8639dd78731950d8828f",
+        "sha256_in_prefix": "cc8a207a5d6d3de33c1095d824801991d310e1f9515b8639dd78731950d8828f",
+        "size_in_bytes": 38
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/bzfgrep.1.gz",
+        "path_type": "hardlink",
+        "sha256": "cc8a207a5d6d3de33c1095d824801991d310e1f9515b8639dd78731950d8828f",
+        "sha256_in_prefix": "cc8a207a5d6d3de33c1095d824801991d310e1f9515b8639dd78731950d8828f",
+        "size_in_bytes": 38
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/bzgrep.1.gz",
+        "path_type": "hardlink",
+        "sha256": "f961525c2811aef40437d26cd8e8d510986c4dbf8082e5bd65d485a5f2d9ef47",
+        "sha256_in_prefix": "f961525c2811aef40437d26cd8e8d510986c4dbf8082e5bd65d485a5f2d9ef47",
+        "size_in_bytes": 629
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/bzip2.1.gz",
+        "path_type": "hardlink",
+        "sha256": "5151bd4df8ddabfac1ece2d8c82de7d9672847457d088350235c6540b22a78b5",
+        "sha256_in_prefix": "5151bd4df8ddabfac1ece2d8c82de7d9672847457d088350235c6540b22a78b5",
+        "size_in_bytes": 6639
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/bzless.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4d90ebef7efc197aafa098f73534f96a13396467833b9be1db32dedbf8d7d0a6",
+        "sha256_in_prefix": "4d90ebef7efc197aafa098f73534f96a13396467833b9be1db32dedbf8d7d0a6",
+        "size_in_bytes": 38
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/bzmore.1.gz",
+        "path_type": "hardlink",
+        "sha256": "902dfb178acf85c67364897b03e554056bda0fd2cb40dc56e0fa1df3bf8354bd",
+        "sha256_in_prefix": "902dfb178acf85c67364897b03e554056bda0fd2cb40dc56e0fa1df3bf8354bd",
+        "size_in_bytes": 1864
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 102525,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-bzip2-1.0.6-6.tar.bz2",
+  "version": "1.0.6"
+}

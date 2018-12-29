@@ -1,0 +1,100 @@
+==> 2018-12-20 19:19:44 <==
+# cmd: D:\Users\MengLingjun\Anaconda3\Scripts\conda create --yes --json --prefix D:\Users\MengLingjun\Anaconda3\envs\ECI_TAXFORECAST python=3.6
+# conda version: 4.5.11
++defaults::certifi-2018.11.29-py36_0
++defaults::pip-18.1-py36_0
++defaults::python-3.6.7-h9f7ef89_2
++defaults::setuptools-40.6.3-py36_0
++defaults::sqlite-3.26.0-he774522_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.15.26706-h3a45250_0
++defaults::wheel-0.32.3-py36_0
++defaults::wincertstore-0.2-py36h7fe50ca_0
+# update specs: ['python=3.6']
+==> 2018-12-20 19:21:14 <==
+# cmd: D:\Users\MengLingjun\Anaconda3\Scripts\conda install mingw libpython
+# conda version: 4.5.11
++defaults::libpython-2.1-py36_0
++defaults::mingw-4.7-1
+# update specs: ['mingw', 'libpython']
+==> 2018-12-20 19:25:15 <==
+# cmd: D:\Users\MengLingjun\Anaconda3\Scripts\conda install theano
+# conda version: 4.5.11
++defaults::blas-1.0-mkl
++defaults::icc_rt-2019.0.0-h0cc432a_1
++defaults::intel-openmp-2019.1-144
++defaults::libgpuarray-0.7.6-hfa6e2cd_0
++defaults::m2w64-binutils-2.25.1-5
++defaults::m2w64-bzip2-1.0.6-6
++defaults::m2w64-crt-git-5.0.0.4636.2595836-2
++defaults::m2w64-gcc-5.3.0-6
++defaults::m2w64-gcc-ada-5.3.0-6
++defaults::m2w64-gcc-fortran-5.3.0-6
++defaults::m2w64-gcc-libgfortran-5.3.0-6
++defaults::m2w64-gcc-libs-5.3.0-7
++defaults::m2w64-gcc-libs-core-5.3.0-7
++defaults::m2w64-gcc-objc-5.3.0-6
++defaults::m2w64-gmp-6.1.0-2
++defaults::m2w64-headers-git-5.0.0.4636.c0ad18a-2
++defaults::m2w64-isl-0.16.1-2
++defaults::m2w64-libiconv-1.14-6
++defaults::m2w64-libmangle-git-5.0.0.4509.2e5a9a2-2
++defaults::m2w64-libwinpthread-git-5.0.0.4634.697f757-2
++defaults::m2w64-make-4.1.2351.a80a8b8-2
++defaults::m2w64-mpc-1.0.3-3
++defaults::m2w64-mpfr-3.1.4-4
++defaults::m2w64-pkg-config-0.29.1-2
++defaults::m2w64-toolchain-5.3.0-7
++defaults::m2w64-tools-git-5.0.0.4592.90b8472-2
++defaults::m2w64-windows-default-manifest-6.4-3
++defaults::m2w64-winpthreads-git-5.0.0.4634.697f757-2
++defaults::m2w64-zlib-1.2.8-10
++defaults::mako-1.0.7-py36_0
++defaults::markupsafe-1.1.0-py36he774522_0
++defaults::mkl-2019.1-144
++defaults::mkl-service-1.1.2-py36hb782905_5
++defaults::mkl_fft-1.0.6-py36h6288b17_0
++defaults::mkl_random-1.0.2-py36h343c172_0
++defaults::msys2-conda-epoch-20160418-1
++defaults::numpy-1.15.4-py36h19fb1c0_0
++defaults::numpy-base-1.15.4-py36hc3f5095_0
++defaults::pygpu-0.7.6-py36h452e1ab_0
++defaults::scipy-1.1.0-py36h29ff71c_2
++defaults::six-1.12.0-py36_0
++defaults::theano-1.0.3-py36_0
+# update specs: ['theano']
+==> 2018-12-20 19:27:38 <==
+# cmd: D:\Users\MengLingjun\Anaconda3\Scripts\conda install keras
+# conda version: 4.5.11
++defaults::_tflow_select-2.2.0-eigen
++defaults::absl-py-0.6.1-py36_0
++defaults::astor-0.7.1-py36_0
++defaults::ca-certificates-2018.03.07-0
++defaults::gast-0.2.0-py36_0
++defaults::grpcio-1.16.1-py36h351948d_1
++defaults::h5py-2.8.0-py36h3bdd7fb_2
++defaults::hdf5-1.10.2-hac2f561_1
++defaults::keras-2.2.4-0
++defaults::keras-applications-1.0.6-py36_0
++defaults::keras-base-2.2.4-py36_0
++defaults::keras-preprocessing-1.0.5-py36_0
++defaults::libprotobuf-3.6.1-h7bd577a_0
++defaults::markdown-3.0.1-py36_0
++defaults::openssl-1.1.1a-he774522_0
++defaults::protobuf-3.6.1-py36h33f27b4_0
++defaults::pyyaml-3.13-py36hfa6e2cd_0
++defaults::tensorboard-1.12.1-py36h33f27b4_0
++defaults::tensorflow-1.12.0-eigen_py36h67ac661_0
++defaults::tensorflow-base-1.12.0-eigen_py36h45df0d8_0
++defaults::termcolor-1.1.0-py36_1
++defaults::werkzeug-0.14.1-py36_0
++defaults::yaml-0.1.7-hc54c509_2
++defaults::zlib-1.2.11-h62dcd97_3
+# update specs: ['keras']
+==> 2018-12-20 19:29:16 <==
+# cmd: D:\Users\MengLingjun\Anaconda3\Scripts\conda install pandas
+# conda version: 4.5.11
++defaults::pandas-0.23.4-py36h830ac7b_0
++defaults::python-dateutil-2.7.5-py36_0
++defaults::pytz-2018.7-py36_0
+# update specs: ['pandas']

@@ -1,0 +1,59 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-make-4.1.2351.a80a8b8-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/mingw32-make.exe",
+    "Library/mingw-w64/include/gnumake.h",
+    "Library/mingw-w64/lib/libgnumake-1.dll.a"
+  ],
+  "fn": "m2w64-make-4.1.2351.a80a8b8-2.tar.bz2",
+  "license": "GPL3",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-make-4.1.2351.a80a8b8-2",
+    "type": 1
+  },
+  "md5": "04a141659822a086db0aa33a17f1192c",
+  "name": "m2w64-make",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-make-4.1.2351.a80a8b8-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/mingw32-make.exe",
+        "path_type": "hardlink",
+        "sha256": "b6236b9a9ef861a8431c06fea8491355695b2b95edc7b8bb1db32bcf6081a28a",
+        "sha256_in_prefix": "b6236b9a9ef861a8431c06fea8491355695b2b95edc7b8bb1db32bcf6081a28a",
+        "size_in_bytes": 228355
+      },
+      {
+        "_path": "Library/mingw-w64/include/gnumake.h",
+        "path_type": "hardlink",
+        "sha256": "78435d5391bcf31e0999b48c7ee8005bc3ff254e052bbdd1eb9b5a7019887229",
+        "sha256_in_prefix": "78435d5391bcf31e0999b48c7ee8005bc3ff254e052bbdd1eb9b5a7019887229",
+        "size_in_bytes": 2912
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libgnumake-1.dll.a",
+        "path_type": "hardlink",
+        "sha256": "3506475d22228c3b4e57d72a9c6ca1a9b7bbc69ddb97e12677bb0a7e4e9e56d6",
+        "sha256_in_prefix": "3506475d22228c3b4e57d72a9c6ca1a9b7bbc69ddb97e12677bb0a7e4e9e56d6",
+        "size_in_bytes": 3768
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 118298,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-make-4.1.2351.a80a8b8-2.tar.bz2",
+  "version": "4.1.2351.a80a8b8"
+}

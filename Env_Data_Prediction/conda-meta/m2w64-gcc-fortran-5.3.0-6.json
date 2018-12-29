@@ -1,0 +1,205 @@
+{
+  "arch": "x86_64",
+  "build": "6",
+  "build_number": 6,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc",
+    "m2w64-gcc-libgfortran",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-fortran-5.3.0-6",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/gfortran.exe",
+    "Library/mingw-w64/bin/x86_64-w64-mingw32-gfortran.exe",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/f951.exe",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/ieee_arithmetic.mod",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/ieee_exceptions.mod",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/ieee_features.mod",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/omp_lib.f90",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/omp_lib.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/omp_lib.mod",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/omp_lib_kinds.mod",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/openacc.f90",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/openacc.mod",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/openacc_kinds.mod",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/openacc_lib.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libcaf_single.a",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libgfortran.a",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libgfortran.dll.a",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libgfortran.spec",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libgfortranbegin.a",
+    "Library/mingw-w64/share/info/gfortran.info.gz",
+    "Library/mingw-w64/share/man/man1/gfortran.1.gz"
+  ],
+  "fn": "m2w64-gcc-fortran-5.3.0-6.tar.bz2",
+  "license": "GPL, LGPL, FDL, custom",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-fortran-5.3.0-6",
+    "type": 1
+  },
+  "md5": "44f20e14a2f26fdc2451d32bcaaa34b7",
+  "name": "m2w64-gcc-fortran",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-fortran-5.3.0-6.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/gfortran.exe",
+        "path_type": "hardlink",
+        "sha256": "a9027bc398f945f83cfed3d7b658889adc0a8518e62fee6fae246f7d6923458e",
+        "sha256_in_prefix": "a9027bc398f945f83cfed3d7b658889adc0a8518e62fee6fae246f7d6923458e",
+        "size_in_bytes": 1892930
+      },
+      {
+        "_path": "Library/mingw-w64/bin/x86_64-w64-mingw32-gfortran.exe",
+        "path_type": "hardlink",
+        "sha256": "2af0d16a8ed2023402df5409c583789173300ff8dab7eea59eafb8ec9e968b16",
+        "sha256_in_prefix": "2af0d16a8ed2023402df5409c583789173300ff8dab7eea59eafb8ec9e968b16",
+        "size_in_bytes": 1892930
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/f951.exe",
+        "path_type": "hardlink",
+        "sha256": "5252b748776c3387595b0b5489e26a9d98dec711c25114e47c7891c50d73d885",
+        "sha256_in_prefix": "5252b748776c3387595b0b5489e26a9d98dec711c25114e47c7891c50d73d885",
+        "size_in_bytes": 19478764
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/ieee_arithmetic.mod",
+        "path_type": "hardlink",
+        "sha256": "8993bd37649992757bf5fb115905dcdda1470d5c8f4f57f0bdfa11ef4714e228",
+        "sha256_in_prefix": "8993bd37649992757bf5fb115905dcdda1470d5c8f4f57f0bdfa11ef4714e228",
+        "size_in_bytes": 5729
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/ieee_exceptions.mod",
+        "path_type": "hardlink",
+        "sha256": "fe686d583ac4b6fdb7c2d8b24a9cfc7bd782707b991f6705bdb604024511e598",
+        "sha256_in_prefix": "fe686d583ac4b6fdb7c2d8b24a9cfc7bd782707b991f6705bdb604024511e598",
+        "size_in_bytes": 1332
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/ieee_features.mod",
+        "path_type": "hardlink",
+        "sha256": "76073b3201d66d2dfe1c49d616143695403caa92c11348cc86447d9c9b61b69c",
+        "sha256_in_prefix": "76073b3201d66d2dfe1c49d616143695403caa92c11348cc86447d9c9b61b69c",
+        "size_in_bytes": 617
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/omp_lib.f90",
+        "path_type": "hardlink",
+        "sha256": "b20c9bc188d6f800bce94cc78231b365b7afa32ae5572864e6abb0039a36b7bf",
+        "sha256_in_prefix": "b20c9bc188d6f800bce94cc78231b365b7afa32ae5572864e6abb0039a36b7bf",
+        "size_in_bytes": 11860
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/omp_lib.h",
+        "path_type": "hardlink",
+        "sha256": "08b9f153245f6b5b4d45ac3ce0b9f4b6ba90605eb97da32b8043b72e3fc8ad15",
+        "sha256_in_prefix": "08b9f153245f6b5b4d45ac3ce0b9f4b6ba90605eb97da32b8043b72e3fc8ad15",
+        "size_in_bytes": 4091
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/omp_lib.mod",
+        "path_type": "hardlink",
+        "sha256": "b90ccedef351087fd414855db16e832289b3a9313e4464d498d7b96aa9b49ec2",
+        "sha256_in_prefix": "b90ccedef351087fd414855db16e832289b3a9313e4464d498d7b96aa9b49ec2",
+        "size_in_bytes": 2301
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/omp_lib_kinds.mod",
+        "path_type": "hardlink",
+        "sha256": "43c351dea6e72b56658bf38c54ae376c17173eb2773028c47baf031bc8bd70e1",
+        "sha256_in_prefix": "43c351dea6e72b56658bf38c54ae376c17173eb2773028c47baf031bc8bd70e1",
+        "size_in_bytes": 462
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/openacc.f90",
+        "path_type": "hardlink",
+        "sha256": "47ca62666eb8874fd8a773754d68d2385c05ab07be96024b223c2d679d0bcfdf",
+        "sha256_in_prefix": "47ca62666eb8874fd8a773754d68d2385c05ab07be96024b223c2d679d0bcfdf",
+        "size_in_bytes": 28042
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/openacc.mod",
+        "path_type": "hardlink",
+        "sha256": "b175bdcc786bb561836d3b0eb0e233e0f03537348361f95285d73cf3c61ef3f3",
+        "sha256_in_prefix": "b175bdcc786bb561836d3b0eb0e233e0f03537348361f95285d73cf3c61ef3f3",
+        "size_in_bytes": 3484
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/openacc_kinds.mod",
+        "path_type": "hardlink",
+        "sha256": "5677ecbb6a47e5bfea79df2487885aa4cbd93425a58fd1663ca10d0ef649cfba",
+        "sha256_in_prefix": "5677ecbb6a47e5bfea79df2487885aa4cbd93425a58fd1663ca10d0ef649cfba",
+        "size_in_bytes": 494
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/finclude/openacc_lib.h",
+        "path_type": "hardlink",
+        "sha256": "7397e594334ae071bfc64ad4dfc57902c2936d791955a4d6e62b7e3a89ee448b",
+        "sha256_in_prefix": "7397e594334ae071bfc64ad4dfc57902c2936d791955a4d6e62b7e3a89ee448b",
+        "size_in_bytes": 12373
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libcaf_single.a",
+        "path_type": "hardlink",
+        "sha256": "17001d8f7bd8b13331bd447d2b2a637191aac6c758bcba51cef54f6fb7a7f9d3",
+        "sha256_in_prefix": "17001d8f7bd8b13331bd447d2b2a637191aac6c758bcba51cef54f6fb7a7f9d3",
+        "size_in_bytes": 29036
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libgfortran.a",
+        "path_type": "hardlink",
+        "sha256": "0cf1dfd8a182698eb403d7ae465681e404cb1d23e7507b7f638e6d7bbe4e0f32",
+        "sha256_in_prefix": "0cf1dfd8a182698eb403d7ae465681e404cb1d23e7507b7f638e6d7bbe4e0f32",
+        "size_in_bytes": 2668100
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libgfortran.dll.a",
+        "path_type": "hardlink",
+        "sha256": "9ca0653ef8f70f500bf3143131f3711adc5a472928007948a13ce48cf904e8cf",
+        "sha256_in_prefix": "9ca0653ef8f70f500bf3143131f3711adc5a472928007948a13ce48cf904e8cf",
+        "size_in_bytes": 1056614
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libgfortran.spec",
+        "path_type": "hardlink",
+        "sha256": "03f410e434a7f6e683eaba5b04ab02cdad936f293c1182fa7fbf96a0350965e6",
+        "sha256_in_prefix": "03f410e434a7f6e683eaba5b04ab02cdad936f293c1182fa7fbf96a0350965e6",
+        "size_in_bytes": 269
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libgfortranbegin.a",
+        "path_type": "hardlink",
+        "sha256": "54c261c2e6a4320b2b469f0a465f0b43e1917a2c528c3b6afcbb8df567684e79",
+        "sha256_in_prefix": "54c261c2e6a4320b2b469f0a465f0b43e1917a2c528c3b6afcbb8df567684e79",
+        "size_in_bytes": 1188
+      },
+      {
+        "_path": "Library/mingw-w64/share/info/gfortran.info.gz",
+        "path_type": "hardlink",
+        "sha256": "9f4d4067315ba9cb965c70c3369a0758167bb788c31c630c3b5204aac9be81b9",
+        "sha256_in_prefix": "9f4d4067315ba9cb965c70c3369a0758167bb788c31c630c3b5204aac9be81b9",
+        "size_in_bytes": 169035
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/gfortran.1.gz",
+        "path_type": "hardlink",
+        "sha256": "384db4f65bae807150ba1f7e855f7a320e1c009b1ad07477f98c37beba0ae392",
+        "sha256_in_prefix": "384db4f65bae807150ba1f7e855f7a320e1c009b1ad07477f98c37beba0ae392",
+        "size_in_bytes": 20970
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 10758138,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-gcc-fortran-5.3.0-6.tar.bz2",
+  "version": "5.3.0"
+}

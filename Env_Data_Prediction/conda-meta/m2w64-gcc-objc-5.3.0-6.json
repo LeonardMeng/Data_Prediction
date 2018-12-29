@@ -1,0 +1,156 @@
+{
+  "arch": "x86_64",
+  "build": "6",
+  "build_number": 6,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-objc-5.3.0-6",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libobjc-4.dll",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/cc1obj.exe",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/cc1objplus.exe",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/NXConstStr.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/Object.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/Protocol.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/message.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/objc-decls.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/objc-exception.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/objc-sync.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/objc.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/runtime.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/thr.h",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libobjc.a",
+    "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libobjc.dll.a"
+  ],
+  "fn": "m2w64-gcc-objc-5.3.0-6.tar.bz2",
+  "license": "GPL, LGPL, FDL, custom",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-objc-5.3.0-6",
+    "type": 1
+  },
+  "md5": "4fce67b667d7ec47c1e5ff5ee8126fd0",
+  "name": "m2w64-gcc-objc",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-gcc-objc-5.3.0-6.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libobjc-4.dll",
+        "path_type": "hardlink",
+        "sha256": "1e1bd28499e37563e52d81ec9156eb3b85be73e359c668063cd5b30529ebe279",
+        "sha256_in_prefix": "1e1bd28499e37563e52d81ec9156eb3b85be73e359c668063cd5b30529ebe279",
+        "size_in_bytes": 130636
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/cc1obj.exe",
+        "path_type": "hardlink",
+        "sha256": "04e3a18d53baa57d590962211c74c18d6b71387bd08c1d13e4bd002af7b7b50b",
+        "sha256_in_prefix": "04e3a18d53baa57d590962211c74c18d6b71387bd08c1d13e4bd002af7b7b50b",
+        "size_in_bytes": 18976262
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/cc1objplus.exe",
+        "path_type": "hardlink",
+        "sha256": "d10d69c8703fc9836dc84fcae5513b354cc3ea0e4866e933639fdc83b279a176",
+        "sha256_in_prefix": "d10d69c8703fc9836dc84fcae5513b354cc3ea0e4866e933639fdc83b279a176",
+        "size_in_bytes": 20017158
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/NXConstStr.h",
+        "path_type": "hardlink",
+        "sha256": "0223bb333bdfd2e17c91fd143a389322eea59ddc48bdb53af9d929f631a245bd",
+        "sha256_in_prefix": "0223bb333bdfd2e17c91fd143a389322eea59ddc48bdb53af9d929f631a245bd",
+        "size_in_bytes": 1392
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/Object.h",
+        "path_type": "hardlink",
+        "sha256": "8e5a47dd127a41964d9d3f2398c45d3f2a6b6d16d89fd13f6e8d6cc15cd4a467",
+        "sha256_in_prefix": "8e5a47dd127a41964d9d3f2398c45d3f2a6b6d16d89fd13f6e8d6cc15cd4a467",
+        "size_in_bytes": 2018
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/Protocol.h",
+        "path_type": "hardlink",
+        "sha256": "4d753ac63f0f0cf4b7684bba85772477e7cdfd8ff30439a4165220090a95644d",
+        "sha256_in_prefix": "4d753ac63f0f0cf4b7684bba85772477e7cdfd8ff30439a4165220090a95644d",
+        "size_in_bytes": 1541
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/message.h",
+        "path_type": "hardlink",
+        "sha256": "2113ec3076fd688a40f140a9cae31f5a371ad07b9ef6a71e87dc550b3b708e32",
+        "sha256_in_prefix": "2113ec3076fd688a40f140a9cae31f5a371ad07b9ef6a71e87dc550b3b708e32",
+        "size_in_bytes": 5183
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/objc-decls.h",
+        "path_type": "hardlink",
+        "sha256": "cdd655c6f978ac2436e5b5cf11e67cd2f0bb875886fc25f3a28e44e517add517",
+        "sha256_in_prefix": "cdd655c6f978ac2436e5b5cf11e67cd2f0bb875886fc25f3a28e44e517add517",
+        "size_in_bytes": 1476
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/objc-exception.h",
+        "path_type": "hardlink",
+        "sha256": "26c501d583eaa78b75662598d5e2d3bf5050db0696345315b314432d76a970df",
+        "sha256_in_prefix": "26c501d583eaa78b75662598d5e2d3bf5050db0696345315b314432d76a970df",
+        "size_in_bytes": 4828
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/objc-sync.h",
+        "path_type": "hardlink",
+        "sha256": "0702d6baba2adb6a6795bd2eace52b0f2b24229e83bba1d0eb115daaae842884",
+        "sha256_in_prefix": "0702d6baba2adb6a6795bd2eace52b0f2b24229e83bba1d0eb115daaae842884",
+        "size_in_bytes": 2342
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/objc.h",
+        "path_type": "hardlink",
+        "sha256": "50ee3afa0f32ba8c3075384def181ac7821ffe737200eb6ff7fc1eb47aa06fa2",
+        "sha256_in_prefix": "50ee3afa0f32ba8c3075384def181ac7821ffe737200eb6ff7fc1eb47aa06fa2",
+        "size_in_bytes": 6360
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/runtime.h",
+        "path_type": "hardlink",
+        "sha256": "1c198e2aa7018757509d779a1fa053a5851a662d0566f4c543df09d7339b888f",
+        "sha256_in_prefix": "1c198e2aa7018757509d779a1fa053a5851a662d0566f4c543df09d7339b888f",
+        "size_in_bytes": 52223
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/include/objc/thr.h",
+        "path_type": "hardlink",
+        "sha256": "f0487217937820b4173ab7a81d51a94d5ec2f2ce152b9a7a69a595e1a0be8803",
+        "sha256_in_prefix": "f0487217937820b4173ab7a81d51a94d5ec2f2ce152b9a7a69a595e1a0be8803",
+        "size_in_bytes": 3986
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libobjc.a",
+        "path_type": "hardlink",
+        "sha256": "bdfa79aa455eea5e5663fa8bb164c957d6bb0f6b644d5ca0ff3be4d83bc4a625",
+        "sha256_in_prefix": "bdfa79aa455eea5e5663fa8bb164c957d6bb0f6b644d5ca0ff3be4d83bc4a625",
+        "size_in_bytes": 181452
+      },
+      {
+        "_path": "Library/mingw-w64/lib/gcc/x86_64-w64-mingw32/5.3.0/libobjc.dll.a",
+        "path_type": "hardlink",
+        "sha256": "3de6f339a57ad9fcc9f148b37082b50cc0f24df6da6cbfe6dfa47d1d0e9f34ca",
+        "sha256_in_prefix": "3de6f339a57ad9fcc9f148b37082b50cc0f24df6da6cbfe6dfa47d1d0e9f34ca",
+        "size_in_bytes": 135002
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 15879530,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-gcc-objc-5.3.0-6.tar.bz2",
+  "version": "5.3.0"
+}

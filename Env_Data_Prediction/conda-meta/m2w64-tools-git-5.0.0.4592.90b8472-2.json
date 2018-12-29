@@ -1,0 +1,108 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-gcc-libs",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-tools-git-5.0.0.4592.90b8472-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/gendef.exe",
+    "Library/mingw-w64/bin/genidl.exe",
+    "Library/mingw-w64/bin/genlib.exe",
+    "Library/mingw-w64/bin/genpeimg.exe",
+    "Library/mingw-w64/bin/widl.exe",
+    "Library/mingw-w64/share/licenses/mingw-w64-tools/COPYING.gendef",
+    "Library/mingw-w64/share/licenses/mingw-w64-tools/COPYING.genidl",
+    "Library/mingw-w64/share/licenses/mingw-w64-tools/COPYING.genlib",
+    "Library/mingw-w64/share/licenses/mingw-w64-tools/COPYING.genpeimg"
+  ],
+  "fn": "m2w64-tools-git-5.0.0.4592.90b8472-2.tar.bz2",
+  "license": "custom",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-tools-git-5.0.0.4592.90b8472-2",
+    "type": 1
+  },
+  "md5": "8ada3aa694b8f70b7388e8a2cd04e4c4",
+  "name": "m2w64-tools-git",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-tools-git-5.0.0.4592.90b8472-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/gendef.exe",
+        "path_type": "hardlink",
+        "sha256": "04044394f530f719a8017f4fd8f28a841163f629e6dbaeaeaa964d01b653c9e6",
+        "sha256_in_prefix": "04044394f530f719a8017f4fd8f28a841163f629e6dbaeaeaa964d01b653c9e6",
+        "size_in_bytes": 86032
+      },
+      {
+        "_path": "Library/mingw-w64/bin/genidl.exe",
+        "path_type": "hardlink",
+        "sha256": "8d355ab86d722e7f9668182d2f0b1a779cfc51dc36fd0425057d96289a314e87",
+        "sha256_in_prefix": "8d355ab86d722e7f9668182d2f0b1a779cfc51dc36fd0425057d96289a314e87",
+        "size_in_bytes": 101963
+      },
+      {
+        "_path": "Library/mingw-w64/bin/genlib.exe",
+        "path_type": "hardlink",
+        "sha256": "7d5c1cd4639f7700f3a848e5fbc68b633be8ec0d4f464210dc93f7046cb25ec9",
+        "sha256_in_prefix": "7d5c1cd4639f7700f3a848e5fbc68b633be8ec0d4f464210dc93f7046cb25ec9",
+        "size_in_bytes": 76011
+      },
+      {
+        "_path": "Library/mingw-w64/bin/genpeimg.exe",
+        "path_type": "hardlink",
+        "sha256": "31caaf592a668927af2d2a6d6aea65cc7634b9facd21340d2917d12d9584c6db",
+        "sha256_in_prefix": "31caaf592a668927af2d2a6d6aea65cc7634b9facd21340d2917d12d9584c6db",
+        "size_in_bytes": 59277
+      },
+      {
+        "_path": "Library/mingw-w64/bin/widl.exe",
+        "path_type": "hardlink",
+        "sha256": "190be6e802697b7b83cab720b36c06a96aaa016d0128ea1f98a2afaa43f483ef",
+        "sha256_in_prefix": "190be6e802697b7b83cab720b36c06a96aaa016d0128ea1f98a2afaa43f483ef",
+        "size_in_bytes": 458835
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/mingw-w64-tools/COPYING.gendef",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/mingw-w64-tools/COPYING.genidl",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/mingw-w64-tools/COPYING.genlib",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/mingw-w64-tools/COPYING.genpeimg",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 321720,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-tools-git-5.0.0.4592.90b8472-2.tar.bz2",
+  "version": "5.0.0.4592.90b8472"
+}

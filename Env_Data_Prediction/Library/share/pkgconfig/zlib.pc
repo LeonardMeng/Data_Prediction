@@ -1,0 +1,13 @@
+prefix=D:/Users/MengLingjun/Anaconda3/envs/ECI_TAXFORECAST/Library
+exec_prefix=D:/Users/MengLingjun/Anaconda3/envs/ECI_TAXFORECAST/Library
+libdir=D:/Users/MengLingjun/Anaconda3/envs/ECI_TAXFORECAST/Library/lib
+sharedlibdir=D:/Users/MengLingjun/Anaconda3/envs/ECI_TAXFORECAST/Library/lib
+includedir=D:/Users/MengLingjun/Anaconda3/envs/ECI_TAXFORECAST/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

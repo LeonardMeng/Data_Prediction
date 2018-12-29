@@ -1,0 +1,531 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-isl-0.16.1-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/include/isl/aff.h",
+    "Library/mingw-w64/include/isl/aff_type.h",
+    "Library/mingw-w64/include/isl/arg.h",
+    "Library/mingw-w64/include/isl/ast.h",
+    "Library/mingw-w64/include/isl/ast_build.h",
+    "Library/mingw-w64/include/isl/ast_type.h",
+    "Library/mingw-w64/include/isl/band.h",
+    "Library/mingw-w64/include/isl/constraint.h",
+    "Library/mingw-w64/include/isl/ctx.h",
+    "Library/mingw-w64/include/isl/deprecated/aff_int.h",
+    "Library/mingw-w64/include/isl/deprecated/ast_int.h",
+    "Library/mingw-w64/include/isl/deprecated/constraint_int.h",
+    "Library/mingw-w64/include/isl/deprecated/ilp_int.h",
+    "Library/mingw-w64/include/isl/deprecated/int.h",
+    "Library/mingw-w64/include/isl/deprecated/map_int.h",
+    "Library/mingw-w64/include/isl/deprecated/mat_int.h",
+    "Library/mingw-w64/include/isl/deprecated/point_int.h",
+    "Library/mingw-w64/include/isl/deprecated/polynomial_int.h",
+    "Library/mingw-w64/include/isl/deprecated/set_int.h",
+    "Library/mingw-w64/include/isl/deprecated/union_map_int.h",
+    "Library/mingw-w64/include/isl/deprecated/val_int.h",
+    "Library/mingw-w64/include/isl/deprecated/vec_int.h",
+    "Library/mingw-w64/include/isl/flow.h",
+    "Library/mingw-w64/include/isl/hash.h",
+    "Library/mingw-w64/include/isl/hmap.h",
+    "Library/mingw-w64/include/isl/id.h",
+    "Library/mingw-w64/include/isl/id_to_ast_expr.h",
+    "Library/mingw-w64/include/isl/id_to_pw_aff.h",
+    "Library/mingw-w64/include/isl/ilp.h",
+    "Library/mingw-w64/include/isl/list.h",
+    "Library/mingw-w64/include/isl/local_space.h",
+    "Library/mingw-w64/include/isl/lp.h",
+    "Library/mingw-w64/include/isl/map.h",
+    "Library/mingw-w64/include/isl/map_to_basic_set.h",
+    "Library/mingw-w64/include/isl/map_type.h",
+    "Library/mingw-w64/include/isl/mat.h",
+    "Library/mingw-w64/include/isl/multi.h",
+    "Library/mingw-w64/include/isl/obj.h",
+    "Library/mingw-w64/include/isl/options.h",
+    "Library/mingw-w64/include/isl/point.h",
+    "Library/mingw-w64/include/isl/polynomial.h",
+    "Library/mingw-w64/include/isl/polynomial_type.h",
+    "Library/mingw-w64/include/isl/printer.h",
+    "Library/mingw-w64/include/isl/schedule.h",
+    "Library/mingw-w64/include/isl/schedule_node.h",
+    "Library/mingw-w64/include/isl/schedule_type.h",
+    "Library/mingw-w64/include/isl/set.h",
+    "Library/mingw-w64/include/isl/set_type.h",
+    "Library/mingw-w64/include/isl/space.h",
+    "Library/mingw-w64/include/isl/stdint.h",
+    "Library/mingw-w64/include/isl/stream.h",
+    "Library/mingw-w64/include/isl/union_map.h",
+    "Library/mingw-w64/include/isl/union_map_type.h",
+    "Library/mingw-w64/include/isl/union_set.h",
+    "Library/mingw-w64/include/isl/union_set_type.h",
+    "Library/mingw-w64/include/isl/val.h",
+    "Library/mingw-w64/include/isl/val_gmp.h",
+    "Library/mingw-w64/include/isl/vec.h",
+    "Library/mingw-w64/include/isl/version.h",
+    "Library/mingw-w64/include/isl/vertices.h",
+    "Library/mingw-w64/lib/libisl.a",
+    "Library/mingw-w64/lib/pkgconfig/isl.pc"
+  ],
+  "fn": "m2w64-isl-0.16.1-2.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-isl-0.16.1-2",
+    "type": 1
+  },
+  "md5": "309c598ed0cc9d2e2135fb0e1f2299eb",
+  "name": "m2w64-isl",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-isl-0.16.1-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/include/isl/aff.h",
+        "path_type": "hardlink",
+        "sha256": "44afa322fbe47e0e5d52fa235acc3ebf93442808d66458ccb5ded45faa7d9af1",
+        "sha256_in_prefix": "44afa322fbe47e0e5d52fa235acc3ebf93442808d66458ccb5ded45faa7d9af1",
+        "size_in_bytes": 41816
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/aff_type.h",
+        "path_type": "hardlink",
+        "sha256": "2aac3df79a204adc079346ce78e2da17c677f79112e4acfed9407be820fb9a6d",
+        "sha256_in_prefix": "2aac3df79a204adc079346ce78e2da17c677f79112e4acfed9407be820fb9a6d",
+        "size_in_bytes": 1318
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/arg.h",
+        "path_type": "hardlink",
+        "sha256": "37419ef43884ec7abdeebc92840caa0db7f06f12ca522b7cb69680291349ea4a",
+        "sha256_in_prefix": "37419ef43884ec7abdeebc92840caa0db7f06f12ca522b7cb69680291349ea4a",
+        "size_in_bytes": 8416
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/ast.h",
+        "path_type": "hardlink",
+        "sha256": "fc737b3c716de541b84b4d3b4487bc918c25adc3987c7da15848a076652f7316",
+        "sha256_in_prefix": "fc737b3c716de541b84b4d3b4487bc918c25adc3987c7da15848a076652f7316",
+        "size_in_bytes": 7641
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/ast_build.h",
+        "path_type": "hardlink",
+        "sha256": "afb393237ecea9528dc3daae1c2f3860e3b0d81f9d051579840e66e703f442b2",
+        "sha256_in_prefix": "afb393237ecea9528dc3daae1c2f3860e3b0d81f9d051579840e66e703f442b2",
+        "size_in_bytes": 4780
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/ast_type.h",
+        "path_type": "hardlink",
+        "sha256": "cf74410d3f472ce23ae0f20c7d624a656d24d8f1bea8a822c3d849dc76308e66",
+        "sha256_in_prefix": "cf74410d3f472ce23ae0f20c7d624a656d24d8f1bea8a822c3d849dc76308e66",
+        "size_in_bytes": 1502
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/band.h",
+        "path_type": "hardlink",
+        "sha256": "23de212f97a1068b6af978da0fb0465c52b83966587407c9f8deea36c4a65d90",
+        "sha256_in_prefix": "23de212f97a1068b6af978da0fb0465c52b83966587407c9f8deea36c4a65d90",
+        "size_in_bytes": 1666
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/constraint.h",
+        "path_type": "hardlink",
+        "sha256": "e0c7b328192213c2108510f82ec7d40c17ae9af9df4a318b371fbbf984aeb417",
+        "sha256_in_prefix": "e0c7b328192213c2108510f82ec7d40c17ae9af9df4a318b371fbbf984aeb417",
+        "size_in_bytes": 6113
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/ctx.h",
+        "path_type": "hardlink",
+        "sha256": "ae46339555db04133254b328bef3388f6ce1fc16121ad43c1af2a8b335180383",
+        "sha256_in_prefix": "ae46339555db04133254b328bef3388f6ce1fc16121ad43c1af2a8b335180383",
+        "size_in_bytes": 7772
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/aff_int.h",
+        "path_type": "hardlink",
+        "sha256": "14e5d90d90af752f2a521bb393d016761fcd5c180f124e6119a26d3d3ce43951",
+        "sha256_in_prefix": "14e5d90d90af752f2a521bb393d016761fcd5c180f124e6119a26d3d3ce43951",
+        "size_in_bytes": 1562
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/ast_int.h",
+        "path_type": "hardlink",
+        "sha256": "3fb30815b4b0a76a926efcd8c5b2e5ebbfe0e1c5ae3367b4f47e7ae351d4a687",
+        "sha256_in_prefix": "3fb30815b4b0a76a926efcd8c5b2e5ebbfe0e1c5ae3367b4f47e7ae351d4a687",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/constraint_int.h",
+        "path_type": "hardlink",
+        "sha256": "4d4eb20167c15e0419aa080cb251af5721a5750ff61051e0cec1b35510f5128a",
+        "sha256_in_prefix": "4d4eb20167c15e0419aa080cb251af5721a5750ff61051e0cec1b35510f5128a",
+        "size_in_bytes": 692
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/ilp_int.h",
+        "path_type": "hardlink",
+        "sha256": "09d98ad4b8e129621016348855786e6693a011e88fb0e78d4a89422d5c744e80",
+        "sha256_in_prefix": "09d98ad4b8e129621016348855786e6693a011e88fb0e78d4a89422d5c744e80",
+        "size_in_bytes": 534
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/int.h",
+        "path_type": "hardlink",
+        "sha256": "025acd0d2e45a178ffa52d00615b18ff6821af20490f3b41154853a0975a3078",
+        "sha256_in_prefix": "025acd0d2e45a178ffa52d00615b18ff6821af20490f3b41154853a0975a3078",
+        "size_in_bytes": 4367
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/map_int.h",
+        "path_type": "hardlink",
+        "sha256": "07eab4e102d720f0cd5cfbe5ff9dd1361a43d34ef3efccd5644254c04ca45cb1",
+        "sha256_in_prefix": "07eab4e102d720f0cd5cfbe5ff9dd1361a43d34ef3efccd5644254c04ca45cb1",
+        "size_in_bytes": 633
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/mat_int.h",
+        "path_type": "hardlink",
+        "sha256": "98e2f051c61ea60c65b40062566fa3d8be2ed879b9d708d38cf5c4b52c402cbe",
+        "sha256_in_prefix": "98e2f051c61ea60c65b40062566fa3d8be2ed879b9d708d38cf5c4b52c402cbe",
+        "size_in_bytes": 386
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/point_int.h",
+        "path_type": "hardlink",
+        "sha256": "408a0ca333a0c572205b6dbbc19bb219ecffb5a917481b87fd8fc2169ca61d15",
+        "sha256_in_prefix": "408a0ca333a0c572205b6dbbc19bb219ecffb5a917481b87fd8fc2169ca61d15",
+        "size_in_bytes": 439
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/polynomial_int.h",
+        "path_type": "hardlink",
+        "sha256": "c8142123d8664c92b707e0de5f79930049424b632d53f9c2c3522baca78c964d",
+        "sha256_in_prefix": "c8142123d8664c92b707e0de5f79930049424b632d53f9c2c3522baca78c964d",
+        "size_in_bytes": 940
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/set_int.h",
+        "path_type": "hardlink",
+        "sha256": "51bdc070691ccd59679ab96bc6aa81111c8f30400ca74975d67789a7a7a76d60",
+        "sha256_in_prefix": "51bdc070691ccd59679ab96bc6aa81111c8f30400ca74975d67789a7a7a76d60",
+        "size_in_bytes": 807
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/union_map_int.h",
+        "path_type": "hardlink",
+        "sha256": "e63af2050945263d1c2ff19d61b347de0fc84e7e50fa1ae4e29bf96d40381700",
+        "sha256_in_prefix": "e63af2050945263d1c2ff19d61b347de0fc84e7e50fa1ae4e29bf96d40381700",
+        "size_in_bytes": 333
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/val_int.h",
+        "path_type": "hardlink",
+        "sha256": "e7ee00611cd4990aab7913badc03db9de03aed6cddf30ec7f34a40a95ed1a9e4",
+        "sha256_in_prefix": "e7ee00611cd4990aab7913badc03db9de03aed6cddf30ec7f34a40a95ed1a9e4",
+        "size_in_bytes": 345
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/deprecated/vec_int.h",
+        "path_type": "hardlink",
+        "sha256": "222de547c0ecd3bc08f935086b544481f3ac80e91bdf6ecf3fef585ce05670cc",
+        "sha256_in_prefix": "222de547c0ecd3bc08f935086b544481f3ac80e91bdf6ecf3fef585ce05670cc",
+        "size_in_bytes": 510
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/flow.h",
+        "path_type": "hardlink",
+        "sha256": "ff7e7f8d1490f2b37b27e404b71d1c2df91c31cdfa624959785efc58885976e8",
+        "sha256_in_prefix": "ff7e7f8d1490f2b37b27e404b71d1c2df91c31cdfa624959785efc58885976e8",
+        "size_in_bytes": 5359
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/hash.h",
+        "path_type": "hardlink",
+        "sha256": "3808a4dd8c14523dd732e0e4f45a36c5bbcc7981c6824b21a166ec59989bf0dc",
+        "sha256_in_prefix": "3808a4dd8c14523dd732e0e4f45a36c5bbcc7981c6824b21a166ec59989bf0dc",
+        "size_in_bytes": 2156
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/hmap.h",
+        "path_type": "hardlink",
+        "sha256": "b78c117307306bde6b30d77fdfd3358c0a53b0ef46f3d3577d5053569e725dbe",
+        "sha256_in_prefix": "b78c117307306bde6b30d77fdfd3358c0a53b0ef46f3d3577d5053569e725dbe",
+        "size_in_bytes": 1792
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/id.h",
+        "path_type": "hardlink",
+        "sha256": "fa9d01c552b14c112dbdbbc43e5e4a72ee66e66c732e5b5dda3c8ed7d995935b",
+        "sha256_in_prefix": "fa9d01c552b14c112dbdbbc43e5e4a72ee66e66c732e5b5dda3c8ed7d995935b",
+        "size_in_bytes": 928
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/id_to_ast_expr.h",
+        "path_type": "hardlink",
+        "sha256": "d48dcdaed848927fe874abd89a5c0343ecd53a55cc978c33ac4ca080d21a9e0c",
+        "sha256_in_prefix": "d48dcdaed848927fe874abd89a5c0343ecd53a55cc978c33ac4ca080d21a9e0c",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/id_to_pw_aff.h",
+        "path_type": "hardlink",
+        "sha256": "3a49928382848bbca1cf82fe9eb367e15862f8d2c7e29b03212e477758ea9b84",
+        "sha256_in_prefix": "3a49928382848bbca1cf82fe9eb367e15862f8d2c7e29b03212e477758ea9b84",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/ilp.h",
+        "path_type": "hardlink",
+        "sha256": "1e9151d775d5765795b0f5a573ac387c8dedee589bc227cbe3f8449b451e48a7",
+        "sha256_in_prefix": "1e9151d775d5765795b0f5a573ac387c8dedee589bc227cbe3f8449b451e48a7",
+        "size_in_bytes": 748
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/list.h",
+        "path_type": "hardlink",
+        "sha256": "bbf769948d6c8382ad9f02e3d50e566198129e334f97c248cb60609fb8a8df9d",
+        "sha256_in_prefix": "bbf769948d6c8382ad9f02e3d50e566198129e334f97c248cb60609fb8a8df9d",
+        "size_in_bytes": 2853
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/local_space.h",
+        "path_type": "hardlink",
+        "sha256": "0fe8b0755cb12216826d3f0e0a9ce3d56aa526db5273301e954c37f4a6cbd0ae",
+        "sha256_in_prefix": "0fe8b0755cb12216826d3f0e0a9ce3d56aa526db5273301e954c37f4a6cbd0ae",
+        "size_in_bytes": 3456
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/lp.h",
+        "path_type": "hardlink",
+        "sha256": "7632e2451a8eab73f54b03e55be659da3c229af62aad363fcab4bcc4ececd350",
+        "sha256_in_prefix": "7632e2451a8eab73f54b03e55be659da3c229af62aad363fcab4bcc4ececd350",
+        "size_in_bytes": 745
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/map.h",
+        "path_type": "hardlink",
+        "sha256": "0fd20956081112b6d49f5aab1a8942ed2cefe5537ab339139001ea56e6869c10",
+        "sha256_in_prefix": "0fd20956081112b6d49f5aab1a8942ed2cefe5537ab339139001ea56e6869c10",
+        "size_in_bytes": 30720
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/map_to_basic_set.h",
+        "path_type": "hardlink",
+        "sha256": "4142eb976eef54db68242f9bcd2e0d5ff4f07485dc6ce40d1dda6e72ab3c1022",
+        "sha256_in_prefix": "4142eb976eef54db68242f9bcd2e0d5ff4f07485dc6ce40d1dda6e72ab3c1022",
+        "size_in_bytes": 242
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/map_type.h",
+        "path_type": "hardlink",
+        "sha256": "c78966365325f2e82753c43cafe43cb8f0c43103c1776b7c81e3864223f66664",
+        "sha256_in_prefix": "c78966365325f2e82753c43cafe43cb8f0c43103c1776b7c81e3864223f66664",
+        "size_in_bytes": 747
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/mat.h",
+        "path_type": "hardlink",
+        "sha256": "614587bbffa582df224d66ff6d1dd446354ba1e5a93173920e59303915a65ca0",
+        "sha256_in_prefix": "614587bbffa582df224d66ff6d1dd446354ba1e5a93173920e59303915a65ca0",
+        "size_in_bytes": 4245
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/multi.h",
+        "path_type": "hardlink",
+        "sha256": "e665c6e45b50335c4b595b570bbb72f71918ff5f02bfd3ac2bdde2e08150ab56",
+        "sha256_in_prefix": "e665c6e45b50335c4b595b570bbb72f71918ff5f02bfd3ac2bdde2e08150ab56",
+        "size_in_bytes": 6611
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/obj.h",
+        "path_type": "hardlink",
+        "sha256": "a009ab6f0203d0469e8ff3f6a1e9bcf893b334ed4e67088754b62c2a2421dd83",
+        "sha256_in_prefix": "a009ab6f0203d0469e8ff3f6a1e9bcf893b334ed4e67088754b62c2a2421dd83",
+        "size_in_bytes": 2047
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/options.h",
+        "path_type": "hardlink",
+        "sha256": "2a18a26993c56ce38a875c19790edd94c5f2a77bd6bc4406d9e060f89878fd51",
+        "sha256_in_prefix": "2a18a26993c56ce38a875c19790edd94c5f2a77bd6bc4406d9e060f89878fd51",
+        "size_in_bytes": 1326
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/point.h",
+        "path_type": "hardlink",
+        "sha256": "98cb7dbe0d345178fb48852de7a1189a0c00e10ca7dd2e8f5c2a304f01701348",
+        "sha256_in_prefix": "98cb7dbe0d345178fb48852de7a1189a0c00e10ca7dd2e8f5c2a304f01701348",
+        "size_in_bytes": 1343
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/polynomial.h",
+        "path_type": "hardlink",
+        "sha256": "f7cf6a8f61c319e5329403b0347bd54669e4624049002fcbf0ab688c4e8e4d19",
+        "sha256_in_prefix": "f7cf6a8f61c319e5329403b0347bd54669e4624049002fcbf0ab688c4e8e4d19",
+        "size_in_bytes": 30846
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/polynomial_type.h",
+        "path_type": "hardlink",
+        "sha256": "1e33d63e692f3402c8ebb857db1d9136b621569f2f1bf1d11c6e03e50df4166d",
+        "sha256_in_prefix": "1e33d63e692f3402c8ebb857db1d9136b621569f2f1bf1d11c6e03e50df4166d",
+        "size_in_bytes": 766
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/printer.h",
+        "path_type": "hardlink",
+        "sha256": "31d493f4be5c96c4d82bab9c53f1883137e113bebf0415f50518ed46b0283a41",
+        "sha256_in_prefix": "31d493f4be5c96c4d82bab9c53f1883137e113bebf0415f50518ed46b0283a41",
+        "size_in_bytes": 2689
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/schedule.h",
+        "path_type": "hardlink",
+        "sha256": "b4996fa685f05ded1c149bff72b1e60f10162cbcfd4ce0e392bfc6f34f0b3d5b",
+        "sha256_in_prefix": "b4996fa685f05ded1c149bff72b1e60f10162cbcfd4ce0e392bfc6f34f0b3d5b",
+        "size_in_bytes": 6633
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/schedule_node.h",
+        "path_type": "hardlink",
+        "sha256": "b525497e9b5f1c3525143b38c5898908ec499eea644bb164a8b628a0f0ee6da8",
+        "sha256_in_prefix": "b525497e9b5f1c3525143b38c5898908ec499eea644bb164a8b628a0f0ee6da8",
+        "size_in_bytes": 10689
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/schedule_type.h",
+        "path_type": "hardlink",
+        "sha256": "416aef2e3b341ab536303fbb2f3db489d6c4e7396c0ab5a67533e7935c64b7b6",
+        "sha256_in_prefix": "416aef2e3b341ab536303fbb2f3db489d6c4e7396c0ab5a67533e7935c64b7b6",
+        "size_in_bytes": 674
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/set.h",
+        "path_type": "hardlink",
+        "sha256": "253237ddeef00f550fb12d56d2fe54b33878fb127c3154886f598b12524c3e30",
+        "sha256_in_prefix": "253237ddeef00f550fb12d56d2fe54b33878fb127c3154886f598b12524c3e30",
+        "size_in_bytes": 22249
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/set_type.h",
+        "path_type": "hardlink",
+        "sha256": "3d5046281ecd6484810aaa45a553044b89ba705b327f8dfb13e1768703458555",
+        "sha256_in_prefix": "3d5046281ecd6484810aaa45a553044b89ba705b327f8dfb13e1768703458555",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/space.h",
+        "path_type": "hardlink",
+        "sha256": "03a9a00564e7ef038aa6b47448fd0eb5023fcd3f6136f0b31cf85ea8f6827521",
+        "sha256_in_prefix": "03a9a00564e7ef038aa6b47448fd0eb5023fcd3f6136f0b31cf85ea8f6827521",
+        "size_in_bytes": 7570
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/stdint.h",
+        "path_type": "hardlink",
+        "sha256": "78cb9f9b5dd0ea66244d3e66430047cd2ebcd5ec0222d57cf21d4c7de719bd20",
+        "sha256_in_prefix": "78cb9f9b5dd0ea66244d3e66430047cd2ebcd5ec0222d57cf21d4c7de719bd20",
+        "size_in_bytes": 285
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/stream.h",
+        "path_type": "hardlink",
+        "sha256": "371de3a6374466ac29e1a7b0a9886967a62dfb492a10b03eb04d9d734186c78d",
+        "sha256_in_prefix": "371de3a6374466ac29e1a7b0a9886967a62dfb492a10b03eb04d9d734186c78d",
+        "size_in_bytes": 3489
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/union_map.h",
+        "path_type": "hardlink",
+        "sha256": "dae4049387e2c462744b63757cb0d75ec0d0e4e0731d91219053d753e754327e",
+        "sha256_in_prefix": "dae4049387e2c462744b63757cb0d75ec0d0e4e0731d91219053d753e754327e",
+        "size_in_bytes": 12001
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/union_map_type.h",
+        "path_type": "hardlink",
+        "sha256": "3b74c3fae0c6c7264353dbe6b139bdb2886f6ae080240ec75a801cab0784950d",
+        "sha256_in_prefix": "3b74c3fae0c6c7264353dbe6b139bdb2886f6ae080240ec75a801cab0784950d",
+        "size_in_bytes": 445
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/union_set.h",
+        "path_type": "hardlink",
+        "sha256": "e0ff4095d9413dc7cf7e17d15f9ae3f37ee24d07d2256029c364800414b58e8c",
+        "sha256_in_prefix": "e0ff4095d9413dc7cf7e17d15f9ae3f37ee24d07d2256029c364800414b58e8c",
+        "size_in_bytes": 6461
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/union_set_type.h",
+        "path_type": "hardlink",
+        "sha256": "0c03cfc7712adc4c6355db1743a95a2e0011e74d2782159bbfadec0766403cfd",
+        "sha256_in_prefix": "0c03cfc7712adc4c6355db1743a95a2e0011e74d2782159bbfadec0766403cfd",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/val.h",
+        "path_type": "hardlink",
+        "sha256": "b8fa4a70e9eda84785733be10cd0a5117c5b63dc70cf7b30511035217746df59",
+        "sha256_in_prefix": "b8fa4a70e9eda84785733be10cd0a5117c5b63dc70cf7b30511035217746df59",
+        "size_in_bytes": 5207
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/val_gmp.h",
+        "path_type": "hardlink",
+        "sha256": "a1f163ffa510c975d6fdcbcdff8a10add2c146fb6475994728501e2fa0ad859d",
+        "sha256_in_prefix": "a1f163ffa510c975d6fdcbcdff8a10add2c146fb6475994728501e2fa0ad859d",
+        "size_in_bytes": 435
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/vec.h",
+        "path_type": "hardlink",
+        "sha256": "b49720fd744b4693f560671e87321438d99b06a6f812e55d36de16f0afa0db2e",
+        "sha256_in_prefix": "b49720fd744b4693f560671e87321438d99b06a6f812e55d36de16f0afa0db2e",
+        "size_in_bytes": 2611
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/version.h",
+        "path_type": "hardlink",
+        "sha256": "2bcf67ba2d90e2585d147ee7c60b760d1b38eacc04008b5da135d42af35b0aed",
+        "sha256_in_prefix": "2bcf67ba2d90e2585d147ee7c60b760d1b38eacc04008b5da135d42af35b0aed",
+        "size_in_bytes": 165
+      },
+      {
+        "_path": "Library/mingw-w64/include/isl/vertices.h",
+        "path_type": "hardlink",
+        "sha256": "47b6b517152c36acd97c8cfe56cf9e18c2d0f70a6cd281343a70fb3fcd838006",
+        "sha256_in_prefix": "47b6b517152c36acd97c8cfe56cf9e18c2d0f70a6cd281343a70fb3fcd838006",
+        "size_in_bytes": 1586
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libisl.a",
+        "path_type": "hardlink",
+        "sha256": "3f549f7254d47470f30ec5a7a3e5c814ee9d99891a0383769aacc8447ff9771f",
+        "sha256_in_prefix": "3f549f7254d47470f30ec5a7a3e5c814ee9d99891a0383769aacc8447ff9771f",
+        "size_in_bytes": 2255110
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/isl.pc",
+        "path_type": "hardlink",
+        "sha256": "88702bc89c7491c224d6789e470fede8545d557de5d20f98c9aaaa29bba1195b",
+        "sha256_in_prefix": "88702bc89c7491c224d6789e470fede8545d557de5d20f98c9aaaa29bba1195b",
+        "size_in_bytes": 434
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 670926,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-isl-0.16.1-2.tar.bz2",
+  "version": "0.16.1"
+}

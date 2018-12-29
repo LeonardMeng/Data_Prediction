@@ -1,0 +1,76 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-libwinpthread-git",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-pkg-config-0.29.1-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/pkg-config.exe",
+    "Library/mingw-w64/bin/x86_64-w64-mingw32-pkg-config.exe",
+    "Library/mingw-w64/share/aclocal/pkg.m4",
+    "Library/mingw-w64/share/doc/pkg-config/pkg-config-guide.html",
+    "Library/mingw-w64/share/man/man1/pkg-config.1.gz"
+  ],
+  "fn": "m2w64-pkg-config-0.29.1-2.tar.bz2",
+  "license": "GPL",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-pkg-config-0.29.1-2",
+    "type": 1
+  },
+  "md5": "061a4a651cec4ede75ab7c4b12f96c3c",
+  "name": "m2w64-pkg-config",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-pkg-config-0.29.1-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/pkg-config.exe",
+        "path_type": "hardlink",
+        "sha256": "462fe191cae7090a5299ce4923325c571e98da7efa5934dbe00bb5a4264afe6d",
+        "sha256_in_prefix": "462fe191cae7090a5299ce4923325c571e98da7efa5934dbe00bb5a4264afe6d",
+        "size_in_bytes": 671915
+      },
+      {
+        "_path": "Library/mingw-w64/bin/x86_64-w64-mingw32-pkg-config.exe",
+        "path_type": "hardlink",
+        "sha256": "8a3097b4eb30d2185a566d39fed5ed5e9e376cb81cff48d2c49f819eb36172af",
+        "sha256_in_prefix": "8a3097b4eb30d2185a566d39fed5ed5e9e376cb81cff48d2c49f819eb36172af",
+        "size_in_bytes": 671915
+      },
+      {
+        "_path": "Library/mingw-w64/share/aclocal/pkg.m4",
+        "path_type": "hardlink",
+        "sha256": "9fab676fae13feb97d5183a8ed86ae9398c76d21927c28bc59460d230f3e0884",
+        "sha256_in_prefix": "9fab676fae13feb97d5183a8ed86ae9398c76d21927c28bc59460d230f3e0884",
+        "size_in_bytes": 10249
+      },
+      {
+        "_path": "Library/mingw-w64/share/doc/pkg-config/pkg-config-guide.html",
+        "path_type": "hardlink",
+        "sha256": "abec943644a7c87d15bae2f5d5763488a592183ff35319732d44892a42a167c1",
+        "sha256_in_prefix": "abec943644a7c87d15bae2f5d5763488a592183ff35319732d44892a42a167c1",
+        "size_in_bytes": 17832
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man1/pkg-config.1.gz",
+        "path_type": "hardlink",
+        "sha256": "a57a07048de6909331fcafa39a525f4762cb5289cdb9b408919af6354b79bb43",
+        "sha256_in_prefix": "a57a07048de6909331fcafa39a525f4762cb5289cdb9b408919af6354b79bb43",
+        "size_in_bytes": 7556
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 480519,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-pkg-config-0.29.1-2.tar.bz2",
+  "version": "0.29.1"
+}

@@ -1,0 +1,188 @@
+{
+  "arch": "x86_64",
+  "build": "hfa6e2cd_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc 14.*"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\libgpuarray-0.7.6-hfa6e2cd_0",
+  "features": "",
+  "files": [
+    "Library/bin/gpuarray.dll",
+    "Library/include/gpuarray/abi_version.h",
+    "Library/include/gpuarray/array.h",
+    "Library/include/gpuarray/blas.h",
+    "Library/include/gpuarray/buffer.h",
+    "Library/include/gpuarray/buffer_blas.h",
+    "Library/include/gpuarray/buffer_collectives.h",
+    "Library/include/gpuarray/collectives.h",
+    "Library/include/gpuarray/config.h",
+    "Library/include/gpuarray/elemwise.h",
+    "Library/include/gpuarray/error.h",
+    "Library/include/gpuarray/ext_cuda.h",
+    "Library/include/gpuarray/extension.h",
+    "Library/include/gpuarray/kernel.h",
+    "Library/include/gpuarray/types.h",
+    "Library/include/gpuarray/util.h",
+    "Library/include/gpuarray/wincompat/stdint.h",
+    "Library/lib/gpuarray-static.lib",
+    "Library/lib/gpuarray.lib"
+  ],
+  "fn": "libgpuarray-0.7.6-hfa6e2cd_0.tar.bz2",
+  "license": "ISC",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\libgpuarray-0.7.6-hfa6e2cd_0",
+    "type": 1
+  },
+  "md5": "86a0cb7308b139ad927d9921b705e7bd",
+  "name": "libgpuarray",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\libgpuarray-0.7.6-hfa6e2cd_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/gpuarray.dll",
+        "path_type": "hardlink",
+        "sha256": "2d2e29b3689a1820c5768dd45d244bfdce41a86c55d98d08be67edea76793b32",
+        "sha256_in_prefix": "2d2e29b3689a1820c5768dd45d244bfdce41a86c55d98d08be67edea76793b32",
+        "size_in_bytes": 247808
+      },
+      {
+        "_path": "Library/include/gpuarray/abi_version.h",
+        "path_type": "hardlink",
+        "sha256": "7310712e655ec0763ff4e1c1e6b9ef4ed48b5d62b721ab6116b1e3a026c40125",
+        "sha256_in_prefix": "7310712e655ec0763ff4e1c1e6b9ef4ed48b5d62b721ab6116b1e3a026c40125",
+        "size_in_bytes": 73
+      },
+      {
+        "_path": "Library/include/gpuarray/array.h",
+        "path_type": "hardlink",
+        "sha256": "b36833a500ab863ad6c1b60ed8cffb1f3214072b18a2b153222a9e12659a967a",
+        "sha256_in_prefix": "b36833a500ab863ad6c1b60ed8cffb1f3214072b18a2b153222a9e12659a967a",
+        "size_in_bytes": 21548
+      },
+      {
+        "_path": "Library/include/gpuarray/blas.h",
+        "path_type": "hardlink",
+        "sha256": "133729b2fce32d0acdea14a9bd94511c1fb150b4761320ea4f588cb73b7b1aae",
+        "sha256_in_prefix": "133729b2fce32d0acdea14a9bd94511c1fb150b4761320ea4f588cb73b7b1aae",
+        "size_in_bytes": 1760
+      },
+      {
+        "_path": "Library/include/gpuarray/buffer.h",
+        "path_type": "hardlink",
+        "sha256": "2e0eaf839752f7e8faa63570c1e8313e81622654f5849ec509f058eb630b8992",
+        "sha256_in_prefix": "2e0eaf839752f7e8faa63570c1e8313e81622654f5849ec509f058eb630b8992",
+        "size_in_bytes": 23158
+      },
+      {
+        "_path": "Library/include/gpuarray/buffer_blas.h",
+        "path_type": "hardlink",
+        "sha256": "baa5b3e757f7344876b59ce830da1c69012e06955c18129e102437d9ef21d30e",
+        "sha256_in_prefix": "baa5b3e757f7344876b59ce830da1c69012e06955c18129e102437d9ef21d30e",
+        "size_in_bytes": 6949
+      },
+      {
+        "_path": "Library/include/gpuarray/buffer_collectives.h",
+        "path_type": "hardlink",
+        "sha256": "3249e29daedcc02320032d1ed41f310c71c3419d96daa325bad39f6bf827df20",
+        "sha256_in_prefix": "3249e29daedcc02320032d1ed41f310c71c3419d96daa325bad39f6bf827df20",
+        "size_in_bytes": 8718
+      },
+      {
+        "_path": "Library/include/gpuarray/collectives.h",
+        "path_type": "hardlink",
+        "sha256": "eb7e14df56086fac692a4a237b44e6408b7897d026d86cb95731b1e79ceb4a67",
+        "sha256_in_prefix": "eb7e14df56086fac692a4a237b44e6408b7897d026d86cb95731b1e79ceb4a67",
+        "size_in_bytes": 4394
+      },
+      {
+        "_path": "Library/include/gpuarray/config.h",
+        "path_type": "hardlink",
+        "sha256": "9bee93c0682ae4134839887ff7e1a3c82532eab6582da40f130a5c28d859a211",
+        "sha256_in_prefix": "9bee93c0682ae4134839887ff7e1a3c82532eab6582da40f130a5c28d859a211",
+        "size_in_bytes": 886
+      },
+      {
+        "_path": "Library/include/gpuarray/elemwise.h",
+        "path_type": "hardlink",
+        "sha256": "f9ff2a66472140454e0d6ad7a35184e1b53cd9e9aa0af6679b1394bdc58ce772",
+        "sha256_in_prefix": "f9ff2a66472140454e0d6ad7a35184e1b53cd9e9aa0af6679b1394bdc58ce772",
+        "size_in_bytes": 3775
+      },
+      {
+        "_path": "Library/include/gpuarray/error.h",
+        "path_type": "hardlink",
+        "sha256": "a8baf33f7b89f1b7b3d1dcffdca137c2fbfeaa4a2a69c8653d6204fd5713f884",
+        "sha256_in_prefix": "a8baf33f7b89f1b7b3d1dcffdca137c2fbfeaa4a2a69c8653d6204fd5713f884",
+        "size_in_bytes": 1113
+      },
+      {
+        "_path": "Library/include/gpuarray/ext_cuda.h",
+        "path_type": "hardlink",
+        "sha256": "9a69e013d8700b54eabd90d81056727dacaac430369ec55ad1da909acfb58b95",
+        "sha256_in_prefix": "9a69e013d8700b54eabd90d81056727dacaac430369ec55ad1da909acfb58b95",
+        "size_in_bytes": 1811
+      },
+      {
+        "_path": "Library/include/gpuarray/extension.h",
+        "path_type": "hardlink",
+        "sha256": "c030defb8a9358bb63467170cc56d7c271943d72b20449ab7a66f48e0f6ff2a2",
+        "sha256_in_prefix": "c030defb8a9358bb63467170cc56d7c271943d72b20449ab7a66f48e0f6ff2a2",
+        "size_in_bytes": 767
+      },
+      {
+        "_path": "Library/include/gpuarray/kernel.h",
+        "path_type": "hardlink",
+        "sha256": "8734174691d25ccb7acc161c57fe285909a8c26b5ab243bcb266fe1985f9e958",
+        "sha256_in_prefix": "8734174691d25ccb7acc161c57fe285909a8c26b5ab243bcb266fe1985f9e958",
+        "size_in_bytes": 3434
+      },
+      {
+        "_path": "Library/include/gpuarray/types.h",
+        "path_type": "hardlink",
+        "sha256": "1d0feffe604d13b85ca805be9f4a110248c36db993224b610d58f3c7a8b755b0",
+        "sha256_in_prefix": "1d0feffe604d13b85ca805be9f4a110248c36db993224b610d58f3c7a8b755b0",
+        "size_in_bytes": 2135
+      },
+      {
+        "_path": "Library/include/gpuarray/util.h",
+        "path_type": "hardlink",
+        "sha256": "399f331213e7f964193972a15769d7c04c46160e2bc105c91280b8a6119eb4f6",
+        "sha256_in_prefix": "399f331213e7f964193972a15769d7c04c46160e2bc105c91280b8a6119eb4f6",
+        "size_in_bytes": 5088
+      },
+      {
+        "_path": "Library/include/gpuarray/wincompat/stdint.h",
+        "path_type": "hardlink",
+        "sha256": "2fba77b1637ad677cfc3d84ca3c759033e43311488b31a94a30b52f220030477",
+        "sha256_in_prefix": "2fba77b1637ad677cfc3d84ca3c759033e43311488b31a94a30b52f220030477",
+        "size_in_bytes": 7767
+      },
+      {
+        "_path": "Library/lib/gpuarray-static.lib",
+        "path_type": "hardlink",
+        "sha256": "407603371cf567acc0274d114920c148533f5895dfec0df879b7032d6d06eaed",
+        "sha256_in_prefix": "407603371cf567acc0274d114920c148533f5895dfec0df879b7032d6d06eaed",
+        "size_in_bytes": 839332
+      },
+      {
+        "_path": "Library/lib/gpuarray.lib",
+        "path_type": "hardlink",
+        "sha256": "11684c34a04e7a2e00ad73a3be51b4b7f1b5fa5e8709de2b6f8c3cd579250093",
+        "sha256_in_prefix": "11684c34a04e7a2e00ad73a3be51b4b7f1b5fa5e8709de2b6f8c3cd579250093",
+        "size_in_bytes": 28754
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 309853,
+  "subdir": "win-64",
+  "timestamp": 1526495221026,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libgpuarray-0.7.6-hfa6e2cd_0.tar.bz2",
+  "version": "0.7.6"
+}

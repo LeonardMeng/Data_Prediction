@@ -1,0 +1,68 @@
+{
+  "arch": "x86_64",
+  "build": "hc54c509_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc 14.*"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\yaml-0.1.7-hc54c509_2",
+  "features": "",
+  "files": [
+    "Library/bin/yaml.dll",
+    "Library/include/yaml.h",
+    "Library/lib/yaml.lib",
+    "Library/lib/yaml_static.lib"
+  ],
+  "fn": "yaml-0.1.7-hc54c509_2.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\yaml-0.1.7-hc54c509_2",
+    "type": 1
+  },
+  "md5": "eaeee418b8ac33d392ea03bb9b6f389d",
+  "name": "yaml",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\yaml-0.1.7-hc54c509_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/yaml.dll",
+        "path_type": "hardlink",
+        "sha256": "4b914c0af3014469d9e10e4baeccf97ef736226440a7ccdb415a331146dceb6e",
+        "sha256_in_prefix": "4b914c0af3014469d9e10e4baeccf97ef736226440a7ccdb415a331146dceb6e",
+        "size_in_bytes": 109568
+      },
+      {
+        "_path": "Library/include/yaml.h",
+        "path_type": "hardlink",
+        "sha256": "5a16306d95841c740f30b118cf528289f2745390008b992d72caa9a0f08b0fe9",
+        "sha256_in_prefix": "5a16306d95841c740f30b118cf528289f2745390008b992d72caa9a0f08b0fe9",
+        "size_in_bytes": 54225
+      },
+      {
+        "_path": "Library/lib/yaml.lib",
+        "path_type": "hardlink",
+        "sha256": "f0e89d144be04a2ac14de9558304303ef335ecf50d50e7a9187fe2680e749b88",
+        "sha256_in_prefix": "f0e89d144be04a2ac14de9558304303ef335ecf50d50e7a9187fe2680e749b88",
+        "size_in_bytes": 15316
+      },
+      {
+        "_path": "Library/lib/yaml_static.lib",
+        "path_type": "hardlink",
+        "sha256": "02587c515e187639dfcf3fd3f330cb073b8c393f2332e52828cee5dbf6965e27",
+        "sha256_in_prefix": "02587c515e187639dfcf3fd3f330cb073b8c393f2332e52828cee5dbf6965e27",
+        "size_in_bytes": 257486
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 105323,
+  "subdir": "win-64",
+  "timestamp": 1510609877038,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/yaml-0.1.7-hc54c509_2.tar.bz2",
+  "version": "0.1.7"
+}

@@ -1,0 +1,301 @@
+{
+  "arch": "x86_64",
+  "build": "144",
+  "build_number": 144,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "intel-openmp"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\mkl-2019.1-144",
+  "features": "",
+  "files": [
+    "Library/bin/libimalloc.dll",
+    "Library/bin/mkl_avx.dll",
+    "Library/bin/mkl_avx2.dll",
+    "Library/bin/mkl_avx512.dll",
+    "Library/bin/mkl_blacs_ilp64.dll",
+    "Library/bin/mkl_blacs_intelmpi_ilp64.dll",
+    "Library/bin/mkl_blacs_intelmpi_lp64.dll",
+    "Library/bin/mkl_blacs_lp64.dll",
+    "Library/bin/mkl_blacs_mpich2_ilp64.dll",
+    "Library/bin/mkl_blacs_mpich2_lp64.dll",
+    "Library/bin/mkl_blacs_msmpi_ilp64.dll",
+    "Library/bin/mkl_blacs_msmpi_lp64.dll",
+    "Library/bin/mkl_cdft_core.dll",
+    "Library/bin/mkl_core.dll",
+    "Library/bin/mkl_def.dll",
+    "Library/bin/mkl_intel_thread.dll",
+    "Library/bin/mkl_mc.dll",
+    "Library/bin/mkl_mc3.dll",
+    "Library/bin/mkl_msg.dll",
+    "Library/bin/mkl_pgi_thread.dll",
+    "Library/bin/mkl_rt.dll",
+    "Library/bin/mkl_scalapack_ilp64.dll",
+    "Library/bin/mkl_scalapack_lp64.dll",
+    "Library/bin/mkl_sequential.dll",
+    "Library/bin/mkl_tbb_thread.dll",
+    "Library/bin/mkl_vml_avx.dll",
+    "Library/bin/mkl_vml_avx2.dll",
+    "Library/bin/mkl_vml_avx512.dll",
+    "Library/bin/mkl_vml_cmpt.dll",
+    "Library/bin/mkl_vml_def.dll",
+    "Library/bin/mkl_vml_mc.dll",
+    "Library/bin/mkl_vml_mc2.dll",
+    "Library/bin/mkl_vml_mc3.dll"
+  ],
+  "fn": "mkl-2019.1-144.tar.bz2",
+  "license": "proprietary - Intel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\mkl-2019.1-144",
+    "type": 1
+  },
+  "md5": "429418273137ee591a55a0a210cf7436",
+  "name": "mkl",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\mkl-2019.1-144.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libimalloc.dll",
+        "path_type": "hardlink",
+        "sha256": "f4f1727c7b44a395187a733c9b0c3541c276f94ba6cdf5a779e35de8d89c28ae",
+        "sha256_in_prefix": "f4f1727c7b44a395187a733c9b0c3541c276f94ba6cdf5a779e35de8d89c28ae",
+        "size_in_bytes": 12520
+      },
+      {
+        "_path": "Library/bin/mkl_avx.dll",
+        "path_type": "hardlink",
+        "sha256": "8b7b3082b4e7c675df7d0156af66a7c4001aaeaec2bed854bdf61faca6db0ba7",
+        "sha256_in_prefix": "8b7b3082b4e7c675df7d0156af66a7c4001aaeaec2bed854bdf61faca6db0ba7",
+        "size_in_bytes": 43408104
+      },
+      {
+        "_path": "Library/bin/mkl_avx2.dll",
+        "path_type": "hardlink",
+        "sha256": "446e014a9da872f5c485340ff10a5d18c149d1b5740e4cd13f0355e029e8c581",
+        "sha256_in_prefix": "446e014a9da872f5c485340ff10a5d18c149d1b5740e4cd13f0355e029e8c581",
+        "size_in_bytes": 52998888
+      },
+      {
+        "_path": "Library/bin/mkl_avx512.dll",
+        "path_type": "hardlink",
+        "sha256": "eb14f7b9d12fcd888653bd333c1805304b089c689143f42120c6b8911b857e6d",
+        "sha256_in_prefix": "eb14f7b9d12fcd888653bd333c1805304b089c689143f42120c6b8911b857e6d",
+        "size_in_bytes": 58725096
+      },
+      {
+        "_path": "Library/bin/mkl_blacs_ilp64.dll",
+        "path_type": "hardlink",
+        "sha256": "4504ac780b8f5d23fe442390842782ec59a8709aae66d9fd550717f15439f8bc",
+        "sha256_in_prefix": "4504ac780b8f5d23fe442390842782ec59a8709aae66d9fd550717f15439f8bc",
+        "size_in_bytes": 529128
+      },
+      {
+        "_path": "Library/bin/mkl_blacs_intelmpi_ilp64.dll",
+        "path_type": "hardlink",
+        "sha256": "cc96e8fc256e239e41b5e66bcb557591e005f4b317c952e867ae02ddb811fb36",
+        "sha256_in_prefix": "cc96e8fc256e239e41b5e66bcb557591e005f4b317c952e867ae02ddb811fb36",
+        "size_in_bytes": 123624
+      },
+      {
+        "_path": "Library/bin/mkl_blacs_intelmpi_lp64.dll",
+        "path_type": "hardlink",
+        "sha256": "bf56d322fe74d460a1d5b555363c32c824bcedb0264e35d76ddee01ad52f5491",
+        "sha256_in_prefix": "bf56d322fe74d460a1d5b555363c32c824bcedb0264e35d76ddee01ad52f5491",
+        "size_in_bytes": 123624
+      },
+      {
+        "_path": "Library/bin/mkl_blacs_lp64.dll",
+        "path_type": "hardlink",
+        "sha256": "0b60dd7563e2208e3cc0a8018fad58f634161b065f2a6017e0277d2f14f1f212",
+        "sha256_in_prefix": "0b60dd7563e2208e3cc0a8018fad58f634161b065f2a6017e0277d2f14f1f212",
+        "size_in_bytes": 282856
+      },
+      {
+        "_path": "Library/bin/mkl_blacs_mpich2_ilp64.dll",
+        "path_type": "hardlink",
+        "sha256": "7f951441590471d1aafc6e76cde603b167601cab5f3bca61d9df5005b489657f",
+        "sha256_in_prefix": "7f951441590471d1aafc6e76cde603b167601cab5f3bca61d9df5005b489657f",
+        "size_in_bytes": 123624
+      },
+      {
+        "_path": "Library/bin/mkl_blacs_mpich2_lp64.dll",
+        "path_type": "hardlink",
+        "sha256": "9072689878a3b8c2ded2be37f710f04c4208681d7eb47a6a13d11fb12cadfd7b",
+        "sha256_in_prefix": "9072689878a3b8c2ded2be37f710f04c4208681d7eb47a6a13d11fb12cadfd7b",
+        "size_in_bytes": 123624
+      },
+      {
+        "_path": "Library/bin/mkl_blacs_msmpi_ilp64.dll",
+        "path_type": "hardlink",
+        "sha256": "2342533cfd7481cfd2b8473a386f9b1aea6383a36aba4c577b2ccb76a0729651",
+        "sha256_in_prefix": "2342533cfd7481cfd2b8473a386f9b1aea6383a36aba4c577b2ccb76a0729651",
+        "size_in_bytes": 123624
+      },
+      {
+        "_path": "Library/bin/mkl_blacs_msmpi_lp64.dll",
+        "path_type": "hardlink",
+        "sha256": "ef81d3566e8f933652e8bd9787d7f5966a1c2138cb281a8ed568e7a9e98b408c",
+        "sha256_in_prefix": "ef81d3566e8f933652e8bd9787d7f5966a1c2138cb281a8ed568e7a9e98b408c",
+        "size_in_bytes": 123624
+      },
+      {
+        "_path": "Library/bin/mkl_cdft_core.dll",
+        "path_type": "hardlink",
+        "sha256": "0d2e21dc9d4e1454a2db7c8208188f42545d1054bee957b81f90eb8a7268e6b1",
+        "sha256_in_prefix": "0d2e21dc9d4e1454a2db7c8208188f42545d1054bee957b81f90eb8a7268e6b1",
+        "size_in_bytes": 272616
+      },
+      {
+        "_path": "Library/bin/mkl_core.dll",
+        "path_type": "hardlink",
+        "sha256": "b11bc5d0bef1cd6d897bcba69237dbc6967cebb297859f2f2667ee0c5bc57f02",
+        "sha256_in_prefix": "b11bc5d0bef1cd6d897bcba69237dbc6967cebb297859f2f2667ee0c5bc57f02",
+        "size_in_bytes": 69738728
+      },
+      {
+        "_path": "Library/bin/mkl_def.dll",
+        "path_type": "hardlink",
+        "sha256": "571e690d03347b36d8cf604d3ab4af6929a6701335c3b95ebf2e76b17866dfc1",
+        "sha256_in_prefix": "571e690d03347b36d8cf604d3ab4af6929a6701335c3b95ebf2e76b17866dfc1",
+        "size_in_bytes": 35708648
+      },
+      {
+        "_path": "Library/bin/mkl_intel_thread.dll",
+        "path_type": "hardlink",
+        "sha256": "6068465c52d95d549f6e8c00f24756f23c3de25df44aaf35f2fad8312f0462c7",
+        "sha256_in_prefix": "6068465c52d95d549f6e8c00f24756f23c3de25df44aaf35f2fad8312f0462c7",
+        "size_in_bytes": 32511720
+      },
+      {
+        "_path": "Library/bin/mkl_mc.dll",
+        "path_type": "hardlink",
+        "sha256": "3a657bae23736e4be80942da70d62f6dd43af1a75494c0d242bf05d9ee0b57af",
+        "sha256_in_prefix": "3a657bae23736e4be80942da70d62f6dd43af1a75494c0d242bf05d9ee0b57af",
+        "size_in_bytes": 41329384
+      },
+      {
+        "_path": "Library/bin/mkl_mc3.dll",
+        "path_type": "hardlink",
+        "sha256": "5834f6ed5e525ab07b5e9eeedcf02ddbd88e49084f95a2510355cd8659fd134d",
+        "sha256_in_prefix": "5834f6ed5e525ab07b5e9eeedcf02ddbd88e49084f95a2510355cd8659fd134d",
+        "size_in_bytes": 42409192
+      },
+      {
+        "_path": "Library/bin/mkl_msg.dll",
+        "path_type": "hardlink",
+        "sha256": "72c017c78b7e37800856c5c6b22855adad1011579abb02360fb030b4a21bdea2",
+        "sha256_in_prefix": "72c017c78b7e37800856c5c6b22855adad1011579abb02360fb030b4a21bdea2",
+        "size_in_bytes": 186600
+      },
+      {
+        "_path": "Library/bin/mkl_pgi_thread.dll",
+        "path_type": "hardlink",
+        "sha256": "cd934cef4b8a3eabfa81501c4783ddac8c7fe817b42afaf4f81fd3ec5f3adbd1",
+        "sha256_in_prefix": "cd934cef4b8a3eabfa81501c4783ddac8c7fe817b42afaf4f81fd3ec5f3adbd1",
+        "size_in_bytes": 27545832
+      },
+      {
+        "_path": "Library/bin/mkl_rt.dll",
+        "path_type": "hardlink",
+        "sha256": "879b62913cb8be49f2cc1ba53525606f64c2437e6a5f28dad3a943b236b6cd71",
+        "sha256_in_prefix": "879b62913cb8be49f2cc1ba53525606f64c2437e6a5f28dad3a943b236b6cd71",
+        "size_in_bytes": 15142120
+      },
+      {
+        "_path": "Library/bin/mkl_scalapack_ilp64.dll",
+        "path_type": "hardlink",
+        "sha256": "5c360356e079f6c47c601fd7c710e0d956fc7b4c38a94095491879ab258971e4",
+        "sha256_in_prefix": "5c360356e079f6c47c601fd7c710e0d956fc7b4c38a94095491879ab258971e4",
+        "size_in_bytes": 7384296
+      },
+      {
+        "_path": "Library/bin/mkl_scalapack_lp64.dll",
+        "path_type": "hardlink",
+        "sha256": "aeb78428fb6b198050e01c06c363ac2cc30fc33bd94bac55eb323818810ee074",
+        "sha256_in_prefix": "aeb78428fb6b198050e01c06c363ac2cc30fc33bd94bac55eb323818810ee074",
+        "size_in_bytes": 7323880
+      },
+      {
+        "_path": "Library/bin/mkl_sequential.dll",
+        "path_type": "hardlink",
+        "sha256": "4d2367a14f97ea93a3e521ab4cc75a4532bd75a82cd87ea958654b4f60f408f9",
+        "sha256_in_prefix": "4d2367a14f97ea93a3e521ab4cc75a4532bd75a82cd87ea958654b4f60f408f9",
+        "size_in_bytes": 18117864
+      },
+      {
+        "_path": "Library/bin/mkl_tbb_thread.dll",
+        "path_type": "hardlink",
+        "sha256": "03889b90f00cccc9d296cd096a0e6f6d599a0b61caf8c888842a7071753353f8",
+        "sha256_in_prefix": "03889b90f00cccc9d296cd096a0e6f6d599a0b61caf8c888842a7071753353f8",
+        "size_in_bytes": 21679848
+      },
+      {
+        "_path": "Library/bin/mkl_vml_avx.dll",
+        "path_type": "hardlink",
+        "sha256": "ac4fdf2f08926a876aede9b8cd87640fa6473bee0e7708c6a8dea678cf3b6565",
+        "sha256_in_prefix": "ac4fdf2f08926a876aede9b8cd87640fa6473bee0e7708c6a8dea678cf3b6565",
+        "size_in_bytes": 12994792
+      },
+      {
+        "_path": "Library/bin/mkl_vml_avx2.dll",
+        "path_type": "hardlink",
+        "sha256": "2914b38eb851b310039c1652a9cf60977a5ec42cf05e8e6cc25ad2125a4a8a81",
+        "sha256_in_prefix": "2914b38eb851b310039c1652a9cf60977a5ec42cf05e8e6cc25ad2125a4a8a81",
+        "size_in_bytes": 12961512
+      },
+      {
+        "_path": "Library/bin/mkl_vml_avx512.dll",
+        "path_type": "hardlink",
+        "sha256": "2d65ca454422d0a6a9e1c1e8affd8fca03cb761b5750fd9dfe170aa114f9b8bf",
+        "sha256_in_prefix": "2d65ca454422d0a6a9e1c1e8affd8fca03cb761b5750fd9dfe170aa114f9b8bf",
+        "size_in_bytes": 12561128
+      },
+      {
+        "_path": "Library/bin/mkl_vml_cmpt.dll",
+        "path_type": "hardlink",
+        "sha256": "a15514acd85d2fa6e631d3484d8ba4da611794c8dea8d4f8da3896275436f19e",
+        "sha256_in_prefix": "a15514acd85d2fa6e631d3484d8ba4da611794c8dea8d4f8da3896275436f19e",
+        "size_in_bytes": 6607592
+      },
+      {
+        "_path": "Library/bin/mkl_vml_def.dll",
+        "path_type": "hardlink",
+        "sha256": "90177d9844213308564bc55a97fe824dc003c50f1561e68b24038cf87452b0c9",
+        "sha256_in_prefix": "90177d9844213308564bc55a97fe824dc003c50f1561e68b24038cf87452b0c9",
+        "size_in_bytes": 6844648
+      },
+      {
+        "_path": "Library/bin/mkl_vml_mc.dll",
+        "path_type": "hardlink",
+        "sha256": "98745870cdb312d50f0c36354e54891062ebe8f8bdc79747713653838fd63699",
+        "sha256_in_prefix": "98745870cdb312d50f0c36354e54891062ebe8f8bdc79747713653838fd63699",
+        "size_in_bytes": 11999976
+      },
+      {
+        "_path": "Library/bin/mkl_vml_mc2.dll",
+        "path_type": "hardlink",
+        "sha256": "e395b8b68391cdf469f4d3e614fbc4fa36e939486ae12b448adb0a5953c92a48",
+        "sha256_in_prefix": "e395b8b68391cdf469f4d3e614fbc4fa36e939486ae12b448adb0a5953c92a48",
+        "size_in_bytes": 11854568
+      },
+      {
+        "_path": "Library/bin/mkl_vml_mc3.dll",
+        "path_type": "hardlink",
+        "sha256": "b8dc313f7e4058fe2573a5a27b41e7a4cae84b8ed5f3f8748bbdbaac98c11425",
+        "sha256_in_prefix": "b8dc313f7e4058fe2573a5a27b41e7a4cae84b8ed5f3f8748bbdbaac98c11425",
+        "size_in_bytes": 11943144
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 166032289,
+  "subdir": "win-64",
+  "timestamp": 1542661562213,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mkl-2019.1-144.tar.bz2",
+  "version": "2019.1"
+}

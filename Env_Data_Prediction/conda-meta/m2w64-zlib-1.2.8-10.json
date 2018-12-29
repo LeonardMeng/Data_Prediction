@@ -1,0 +1,188 @@
+{
+  "arch": "x86_64",
+  "build": "10",
+  "build_number": 10,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-bzip2",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-zlib-1.2.8-10",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/bin/libminizip-1.dll",
+    "Library/mingw-w64/bin/miniunzip.exe",
+    "Library/mingw-w64/bin/minizip.exe",
+    "Library/mingw-w64/bin/zlib1.dll",
+    "Library/mingw-w64/include/minizip/crypt.h",
+    "Library/mingw-w64/include/minizip/ioapi.h",
+    "Library/mingw-w64/include/minizip/iowin32.h",
+    "Library/mingw-w64/include/minizip/unzip.h",
+    "Library/mingw-w64/include/minizip/zip.h",
+    "Library/mingw-w64/include/zconf.h",
+    "Library/mingw-w64/include/zlib.h",
+    "Library/mingw-w64/lib/libminizip.a",
+    "Library/mingw-w64/lib/libminizip.dll.a",
+    "Library/mingw-w64/lib/libz.a",
+    "Library/mingw-w64/lib/libz.dll.a",
+    "Library/mingw-w64/lib/pkgconfig/minizip.pc",
+    "Library/mingw-w64/lib/pkgconfig/zlib.pc",
+    "Library/mingw-w64/share/licenses/zlib/LICENSE",
+    "Library/mingw-w64/share/man/man3/zlib.3.gz"
+  ],
+  "fn": "m2w64-zlib-1.2.8-10.tar.bz2",
+  "license": "ZLIB",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-zlib-1.2.8-10",
+    "type": 1
+  },
+  "md5": "0485dc8f4d06b8f59d1a280059b11cb9",
+  "name": "m2w64-zlib",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-zlib-1.2.8-10.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/bin/libminizip-1.dll",
+        "path_type": "hardlink",
+        "sha256": "a0b6285a87faf6bafc5b5710f14ff0a958473176b5fcb694cd456aa10d57cc27",
+        "sha256_in_prefix": "a0b6285a87faf6bafc5b5710f14ff0a958473176b5fcb694cd456aa10d57cc27",
+        "size_in_bytes": 84772
+      },
+      {
+        "_path": "Library/mingw-w64/bin/miniunzip.exe",
+        "path_type": "hardlink",
+        "sha256": "03e688e6c503f5203866ea5d8500f97c63efb3396e621dd321c470d1ea9306b1",
+        "sha256_in_prefix": "03e688e6c503f5203866ea5d8500f97c63efb3396e621dd321c470d1ea9306b1",
+        "size_in_bytes": 82196
+      },
+      {
+        "_path": "Library/mingw-w64/bin/minizip.exe",
+        "path_type": "hardlink",
+        "sha256": "4eb99113a10c84cd52e58597291f6063ac7c2d1297c6052c58bc51f13ed3201d",
+        "sha256_in_prefix": "4eb99113a10c84cd52e58597291f6063ac7c2d1297c6052c58bc51f13ed3201d",
+        "size_in_bytes": 82861
+      },
+      {
+        "_path": "Library/mingw-w64/bin/zlib1.dll",
+        "path_type": "hardlink",
+        "sha256": "cf80e028e1605115ceb1e481f722e1a3025489b46031499580b41f6a52353ede",
+        "sha256_in_prefix": "cf80e028e1605115ceb1e481f722e1a3025489b46031499580b41f6a52353ede",
+        "size_in_bytes": 90250
+      },
+      {
+        "_path": "Library/mingw-w64/include/minizip/crypt.h",
+        "path_type": "hardlink",
+        "sha256": "bc62697bf59a087e304859f7d9fd44ef63bf84b922fb8d95df6279504f3ccfca",
+        "sha256_in_prefix": "bc62697bf59a087e304859f7d9fd44ef63bf84b922fb8d95df6279504f3ccfca",
+        "size_in_bytes": 4872
+      },
+      {
+        "_path": "Library/mingw-w64/include/minizip/ioapi.h",
+        "path_type": "hardlink",
+        "sha256": "c38cf7c6c659c8a599d1b3f60c9c89fa22c68ebb21800bd5b35abab2aa29c303",
+        "sha256_in_prefix": "c38cf7c6c659c8a599d1b3f60c9c89fa22c68ebb21800bd5b35abab2aa29c303",
+        "size_in_bytes": 6925
+      },
+      {
+        "_path": "Library/mingw-w64/include/minizip/iowin32.h",
+        "path_type": "hardlink",
+        "sha256": "cea047827e9f1b871d66835cfb397e1736758d8c11c581352162e946ad01c721",
+        "sha256_in_prefix": "cea047827e9f1b871d66835cfb397e1736758d8c11c581352162e946ad01c721",
+        "size_in_bytes": 918
+      },
+      {
+        "_path": "Library/mingw-w64/include/minizip/unzip.h",
+        "path_type": "hardlink",
+        "sha256": "40a6433b99f59865a7e4bd95f86184a4d7e9c846fe5d3f6cc97b3f31dc4262aa",
+        "sha256_in_prefix": "40a6433b99f59865a7e4bd95f86184a4d7e9c846fe5d3f6cc97b3f31dc4262aa",
+        "size_in_bytes": 14350
+      },
+      {
+        "_path": "Library/mingw-w64/include/minizip/zip.h",
+        "path_type": "hardlink",
+        "sha256": "5caf06b939120efb9d13dbbd5b11b9d86a36559346a8a6eb9262a5db562b54bd",
+        "sha256_in_prefix": "5caf06b939120efb9d13dbbd5b11b9d86a36559346a8a6eb9262a5db562b54bd",
+        "size_in_bytes": 9175
+      },
+      {
+        "_path": "Library/mingw-w64/include/zconf.h",
+        "path_type": "hardlink",
+        "sha256": "30d2ee03630b1904a47fad6c321db799052d9e91abe96e431fe7cab68d38cfd3",
+        "sha256_in_prefix": "30d2ee03630b1904a47fad6c321db799052d9e91abe96e431fe7cab68d38cfd3",
+        "size_in_bytes": 15526
+      },
+      {
+        "_path": "Library/mingw-w64/include/zlib.h",
+        "path_type": "hardlink",
+        "sha256": "726b0569915917b967f87f3f08a1eec039101bf9dcc29d61c0b2b0b8f271b58d",
+        "sha256_in_prefix": "726b0569915917b967f87f3f08a1eec039101bf9dcc29d61c0b2b0b8f271b58d",
+        "size_in_bytes": 87883
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libminizip.a",
+        "path_type": "hardlink",
+        "sha256": "88cbc46090bc2c1f3d15c28b0635f72e0c07ce919d788da990688d2546e1a349",
+        "sha256_in_prefix": "88cbc46090bc2c1f3d15c28b0635f72e0c07ce919d788da990688d2546e1a349",
+        "size_in_bytes": 53894
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libminizip.dll.a",
+        "path_type": "hardlink",
+        "sha256": "1e0b84cc6bb7023aec0e97a9f7c8e62a115f6445972680e5e2f1afd7a7217532",
+        "sha256_in_prefix": "1e0b84cc6bb7023aec0e97a9f7c8e62a115f6445972680e5e2f1afd7a7217532",
+        "size_in_bytes": 59710
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libz.a",
+        "path_type": "hardlink",
+        "sha256": "7fefe11e510621b304914b83172e940bd93312cf1d7615ee57a3c43886ec08d4",
+        "sha256_in_prefix": "7fefe11e510621b304914b83172e940bd93312cf1d7615ee57a3c43886ec08d4",
+        "size_in_bytes": 97372
+      },
+      {
+        "_path": "Library/mingw-w64/lib/libz.dll.a",
+        "path_type": "hardlink",
+        "sha256": "fda8ef062c377c23326e16faf7c58a165e4d86786855caff3ef24a90079b41fc",
+        "sha256_in_prefix": "fda8ef062c377c23326e16faf7c58a165e4d86786855caff3ef24a90079b41fc",
+        "size_in_bytes": 56358
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/minizip.pc",
+        "path_type": "hardlink",
+        "sha256": "0965483fde18b73d713fe2479d0fd46f65f491e0061a719ce422a37427e6e009",
+        "sha256_in_prefix": "0965483fde18b73d713fe2479d0fd46f65f491e0061a719ce422a37427e6e009",
+        "size_in_bytes": 268
+      },
+      {
+        "_path": "Library/mingw-w64/lib/pkgconfig/zlib.pc",
+        "path_type": "hardlink",
+        "sha256": "1c140264b21d08a33bd972419bde7996d0a3935852e20eeef9eddf30536caef8",
+        "sha256_in_prefix": "1c140264b21d08a33bd972419bde7996d0a3935852e20eeef9eddf30536caef8",
+        "size_in_bytes": 247
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/zlib/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "869d0cb85a534e384f4b3d5b7e9089d09f09de7f8ba7f518a18dff612c71a9d2",
+        "sha256_in_prefix": "869d0cb85a534e384f4b3d5b7e9089d09f09de7f8ba7f518a18dff612c71a9d2",
+        "size_in_bytes": 1215
+      },
+      {
+        "_path": "Library/mingw-w64/share/man/man3/zlib.3.gz",
+        "path_type": "hardlink",
+        "sha256": "25ff2e29c51ed774398a921df26b8920ae9f406a38f91936773163f606bfe3c5",
+        "sha256_in_prefix": "25ff2e29c51ed774398a921df26b8920ae9f406a38f91936773163f606bfe3c5",
+        "size_in_bytes": 1977
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 201984,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-zlib-1.2.8-10.tar.bz2",
+  "version": "1.2.8"
+}

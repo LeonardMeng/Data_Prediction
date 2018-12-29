@@ -1,0 +1,141 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2w64-crt-git",
+    "m2w64-libwinpthread-git",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-winpthreads-git-5.0.0.4634.697f757-2",
+  "features": "",
+  "files": [
+    "Library/mingw-w64/share/licenses/winpthreads/COPYING",
+    "Library/mingw-w64/share/licenses/winpthreads/mingw-w64-libraries/winpthreads/COPYING",
+    "Library/mingw-w64/x86_64-w64-mingw32/include/pthread.h",
+    "Library/mingw-w64/x86_64-w64-mingw32/include/pthread_compat.h",
+    "Library/mingw-w64/x86_64-w64-mingw32/include/pthread_signal.h",
+    "Library/mingw-w64/x86_64-w64-mingw32/include/pthread_time.h",
+    "Library/mingw-w64/x86_64-w64-mingw32/include/pthread_unistd.h",
+    "Library/mingw-w64/x86_64-w64-mingw32/include/sched.h",
+    "Library/mingw-w64/x86_64-w64-mingw32/include/semaphore.h",
+    "Library/mingw-w64/x86_64-w64-mingw32/lib/libpthread.a",
+    "Library/mingw-w64/x86_64-w64-mingw32/lib/libpthread.dll.a",
+    "Library/mingw-w64/x86_64-w64-mingw32/lib/libwinpthread.a",
+    "Library/mingw-w64/x86_64-w64-mingw32/lib/libwinpthread.dll.a"
+  ],
+  "fn": "m2w64-winpthreads-git-5.0.0.4634.697f757-2.tar.bz2",
+  "license": "MIT, BSD",
+  "link": {
+    "source": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-winpthreads-git-5.0.0.4634.697f757-2",
+    "type": 1
+  },
+  "md5": "ce04a744a829155b007ec8cd3fdc3065",
+  "name": "m2w64-winpthreads-git",
+  "package_tarball_full_path": "D:\\Users\\MengLingjun\\Anaconda3\\pkgs\\m2w64-winpthreads-git-5.0.0.4634.697f757-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw-w64/share/licenses/winpthreads/COPYING",
+        "path_type": "hardlink",
+        "sha256": "99a69660981156c21336fdb5661f89341b013c94e4bf9e1c7467b4745718397f",
+        "sha256_in_prefix": "99a69660981156c21336fdb5661f89341b013c94e4bf9e1c7467b4745718397f",
+        "size_in_bytes": 2326
+      },
+      {
+        "_path": "Library/mingw-w64/share/licenses/winpthreads/mingw-w64-libraries/winpthreads/COPYING",
+        "path_type": "hardlink",
+        "sha256": "63263614cdd29f2f93cba85e992f041b31f9fc7b4033692f31269489a8a1b177",
+        "sha256_in_prefix": "63263614cdd29f2f93cba85e992f041b31f9fc7b4033692f31269489a8a1b177",
+        "size_in_bytes": 2883
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/include/pthread.h",
+        "path_type": "hardlink",
+        "sha256": "d20df00f7deeef8f5342e70093fac820de6864f16c8cf8f03aa564b22522e60c",
+        "sha256_in_prefix": "d20df00f7deeef8f5342e70093fac820de6864f16c8cf8f03aa564b22522e60c",
+        "size_in_bytes": 34738
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/include/pthread_compat.h",
+        "path_type": "hardlink",
+        "sha256": "6c301324cf6f4e4a624fb391bdb6ebe378f8818cd3080e9ebcdb9871f67b6a96",
+        "sha256_in_prefix": "6c301324cf6f4e4a624fb391bdb6ebe378f8818cd3080e9ebcdb9871f67b6a96",
+        "size_in_bytes": 3443
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/include/pthread_signal.h",
+        "path_type": "hardlink",
+        "sha256": "9db8b309a73738130e06b8f3da0ba470e382d04f6ca6fae8670737bcdbc25c50",
+        "sha256_in_prefix": "9db8b309a73738130e06b8f3da0ba470e382d04f6ca6fae8670737bcdbc25c50",
+        "size_in_bytes": 1298
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/include/pthread_time.h",
+        "path_type": "hardlink",
+        "sha256": "ea1983ea44aefb1d95e248b26879533a9a26adb448be532ddae7af1fb1a9a24f",
+        "sha256_in_prefix": "ea1983ea44aefb1d95e248b26879533a9a26adb448be532ddae7af1fb1a9a24f",
+        "size_in_bytes": 2973
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/include/pthread_unistd.h",
+        "path_type": "hardlink",
+        "sha256": "276022388fe3ffaf8fde96ea320a41daaf492dc63438b4666a5eb9a4c3d7cd2f",
+        "sha256_in_prefix": "276022388fe3ffaf8fde96ea320a41daaf492dc63438b4666a5eb9a4c3d7cd2f",
+        "size_in_bytes": 5373
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/include/sched.h",
+        "path_type": "hardlink",
+        "sha256": "b286d80ebcb932cb53c2485a3a2acaa613eeabcc0d8c5ac1be1d3429a2077fb0",
+        "sha256_in_prefix": "b286d80ebcb932cb53c2485a3a2acaa613eeabcc0d8c5ac1be1d3429a2077fb0",
+        "size_in_bytes": 2377
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/include/semaphore.h",
+        "path_type": "hardlink",
+        "sha256": "390bac9469826dc67feac923157315d836b9e20ca07ac1941422b017d0e7eb22",
+        "sha256_in_prefix": "390bac9469826dc67feac923157315d836b9e20ca07ac1941422b017d0e7eb22",
+        "size_in_bytes": 2510
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/lib/libpthread.a",
+        "path_type": "hardlink",
+        "sha256": "0770d2adb5c8fdee0279544e03679e378d116cfa87e79bb1bc6529273f19d799",
+        "sha256_in_prefix": "0770d2adb5c8fdee0279544e03679e378d116cfa87e79bb1bc6529273f19d799",
+        "size_in_bytes": 69326
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/lib/libpthread.dll.a",
+        "path_type": "hardlink",
+        "sha256": "38e5ff513004137bc55c197d5bce29775344389bdb3eeadf9af6b6c6e7bf3f5e",
+        "sha256_in_prefix": "38e5ff513004137bc55c197d5bce29775344389bdb3eeadf9af6b6c6e7bf3f5e",
+        "size_in_bytes": 88994
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/lib/libwinpthread.a",
+        "path_type": "hardlink",
+        "sha256": "0bf012e510c10ba3ce06a5dbd5197a6feae34f1f731de8f766a7c16a6942da6c",
+        "sha256_in_prefix": "0bf012e510c10ba3ce06a5dbd5197a6feae34f1f731de8f766a7c16a6942da6c",
+        "size_in_bytes": 69326
+      },
+      {
+        "_path": "Library/mingw-w64/x86_64-w64-mingw32/lib/libwinpthread.dll.a",
+        "path_type": "hardlink",
+        "sha256": "abf3f4d964091bab6b46e998eaf44cd0f552977fcfe738ad3f53c7da6233caea",
+        "sha256_in_prefix": "abf3f4d964091bab6b46e998eaf44cd0f552977fcfe738ad3f53c7da6233caea",
+        "size_in_bytes": 88994
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 46285,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-winpthreads-git-5.0.0.4634.697f757-2.tar.bz2",
+  "version": "5.0.0.4634.697f757"
+}
