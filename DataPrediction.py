@@ -11,11 +11,13 @@ def load_y():
 
 def Predict_Data(data_pre):
     model = Sequential()
-    model.add(Dense(12, input_dim=data_pre.shape[1], kernel_initializer="uniform"))
+    model.add(Dense(data_pre.shape[1], input_dim=data_pre.shape[1], kernel_initializer="uniform"))
+    print(data_pre.shape[1])
     model.add(Activation('relu'))
-    model.add(Dense(1, input_dim=12))
+    model.add(Dense(1, input_dim=data_pre.shape[1]))
     model.compile(loss='mean_squared_error', optimizer='adam')
     model.load_weights('./modelweight')
     mean_std = load_y()
     pre_result = model.predict(data_pre) * float(mean_std[1]) + float(mean_std[0])
+    print(model.summary())
     return pre_result

@@ -14,9 +14,9 @@ def Train_Model(data_train):
     x_train = data_train[:, 0:(data_train.shape[1] - 1)]
     y_train = data_train[:, data_train.shape[1] - 1]
     model = Sequential()
-    model.add(Dense(12, input_dim=x_train.shape[1], kernel_initializer="uniform"))
+    model.add(Dense(x_train.shape[1], input_dim=x_train.shape[1], kernel_initializer="uniform"))
     model.add(Activation('relu'))
-    model.add(Dense(1, input_dim=12))
+    model.add(Dense(1, input_dim=x_train.shape[1]))
     model.compile(loss='mean_squared_error', optimizer='adam')
     model.fit(x_train, y_train, epochs=4000, batch_size=x_train.shape[0])
     model.save_weights(modelfile)

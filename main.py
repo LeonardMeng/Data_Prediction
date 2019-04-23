@@ -10,6 +10,7 @@ def main():
     data_pre = dataload.load_data_pre()
     pre_result = dataprediction.Predict_Data(data_pre)
     print("真实值为 930291366.85 预测结果为：%f" % (pre_result))
-    
+
+
 if __name__ == '__main__':
     main()
